@@ -135,7 +135,10 @@
     /* County details and findings */
     .sidebar-content {
       padding: 12px !important;
-      font-size: 13px !important;
+    }
+
+    .county-details h4 {
+      font-size: 16px !important;
     }
 
     .county-details,
@@ -613,36 +616,30 @@ body {
 }
 /* Sidebar Card Classes for Consistent Font Sizes */
 .sidebar-section-title {
-  font-size: 15px !important;
+  font-size: 14px !important;
   font-weight: 700 !important;
   margin-bottom: 6px !important;
   color: #222 !important;
 }
 .sidebar-winner {
-  font-size: 15px !important;
+  font-size: 14px !important;
   font-weight: 700 !important;
   margin-bottom: 8px !important;
 }
 .sidebar-margin {
-  font-size: 15px !important;
+  font-size: 14px !important;
   font-weight: 700 !important;
   margin-bottom: 4px !important;
 }
 .sidebar-margin-details {
-  font-size: 15px !important;
+  font-size: 13px !important;
   color: #64748b !important;
   margin-bottom: 8px !important;
 }
 .sidebar-breakdown {
-  font-size: 15px !important;
+  font-size: 14px !important;
   font-weight: 600 !important;
   margin-bottom: 2px !important;
-}
-.sidebar-competitiveness-rating {
-  font-size: 16px !important;
-  font-weight: 800 !important;
-  line-height: 1.35 !important;
-  margin-bottom: 8px !important;
 }
 .statewide-results {
   margin-bottom: 20px;
@@ -685,11 +682,6 @@ body {
   font-size: 14px !important;
   color: #64748b !important;
   margin-top: 5px !important;
-}
-.statewide-competitiveness {
-  margin-top: 6px !important;
-  font-size: 15px !important;
-  font-weight: 700 !important;
 }
 
 .findings-section {
@@ -1646,7 +1638,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
       // Calculate competitiveness using refined criteria.
       const winnerCode = winner === 'Republican' ? 'R' : (winner === 'Democratic' ? 'D' : 'T');
       const roundedMargin = Math.round(marginPct * 100) / 100;
-      const compLabel = categoryLabelForMargin(roundedMargin, winnerCode) || 'Unknown';
+      const compLabel = categoryLabelForMargin(roundedMargin, winnerCode);
       const compColor = categoryColorForMargin(roundedMargin, winnerCode);
       // Build the horizontal bar with D/R/Other if present
       let barHTML = '';
@@ -1679,8 +1671,8 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
           <div style="margin-top:10px;font-size:15px;color:#374151;font-weight:600;">
             Total Votes: ${totalVotes.toLocaleString()}
           </div>
-          <div class="statewide-competitiveness" style="color:${compColor};">
-            🎯 Competitiveness: ${compLabel}
+          <div style="margin-top:4px;font-size:15px;font-weight:600;color:${compColor};">
+            Competitiveness: ${compLabel}
           </div>
         </div>
       `;
@@ -2113,7 +2105,7 @@ function toggleSidebar() {
   
   sidebarContent += `<div class="competitiveness-section">`;
   sidebarContent += '<h3 class="sidebar-section-title">🎯 Competitiveness</h3>';
-  sidebarContent += `<p class="sidebar-competitiveness-rating" style="color: ${finalCompColor};">${finalCompLabel}</p>`;
+  sidebarContent += `<p style="color: ${finalCompColor}; font-weight: bold;">${finalCompLabel}</p>`;
   // Add short, emphasized cues for very-close and extremely-close contests (matches CLEAN map UX)
   try {
     if (typeof countyCompLabel === 'string') {
@@ -3915,4 +3907,3 @@ if (topSearch) topSearch.parentNode.removeChild(topSearch);
     </script>
 </body>
 </html>
-
