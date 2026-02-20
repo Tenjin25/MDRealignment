@@ -639,8 +639,8 @@ body {
   margin-bottom: 2px !important;
 }
 .sidebar-competitiveness-rating {
-  font-size: 15px !important;
-  font-weight: 700 !important;
+  font-size: 16px !important;
+  font-weight: 800 !important;
   line-height: 1.35 !important;
   margin-bottom: 8px !important;
 }
@@ -685,6 +685,11 @@ body {
   font-size: 14px !important;
   color: #64748b !important;
   margin-top: 5px !important;
+}
+.statewide-competitiveness {
+  margin-top: 6px !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
 }
 
 .findings-section {
@@ -1641,7 +1646,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
       // Calculate competitiveness using refined criteria.
       const winnerCode = winner === 'Republican' ? 'R' : (winner === 'Democratic' ? 'D' : 'T');
       const roundedMargin = Math.round(marginPct * 100) / 100;
-      const compLabel = categoryLabelForMargin(roundedMargin, winnerCode);
+      const compLabel = categoryLabelForMargin(roundedMargin, winnerCode) || 'Unknown';
       const compColor = categoryColorForMargin(roundedMargin, winnerCode);
       // Build the horizontal bar with D/R/Other if present
       let barHTML = '';
@@ -1674,8 +1679,8 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
           <div style="margin-top:10px;font-size:15px;color:#374151;font-weight:600;">
             Total Votes: ${totalVotes.toLocaleString()}
           </div>
-          <div style="margin-top:4px;font-size:15px;font-weight:600;color:${compColor};">
-            Competitiveness: ${compLabel}
+          <div class="statewide-competitiveness" style="color:${compColor};">
+            🎯 Competitiveness: ${compLabel}
           </div>
         </div>
       `;
