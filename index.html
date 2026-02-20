@@ -777,20 +777,20 @@ document.addEventListener('DOMContentLoaded', function() {
         // Map original color to colorblind-friendly color
         var cbMap = {
           '#67000d': '#ff9900',
-          '#a50f15': '#ffb84d',
-          '#cb181d': '#ffd699',
-          '#ef3b2c': '#ffe5cc',
-          '#fb6a4a': '#fff2e6',
-          '#fcae91': '#ffe5cc',
-          '#fee8c8': '#fff2e6',
+          '#7f1d1d': '#ffb84d',
+          '#991b1b': '#ffd699',
+          '#dc2626': '#ffe5cc',
+          '#ef4444': '#fff2e6',
+          '#f87171': '#ffe5cc',
+          '#fca5a5': '#fff2e6',
           '#f7f7f7': '#cccccc',
-          '#e1f5fe': '#3399ff',
-          '#c6dbef': '#66b3ff',
-          '#9ecae1': '#99ccff',
-          '#6baed6': '#b3d1ff',
-          '#3182bd': '#3366cc',
-          '#08519c': '#003399',
-          '#08306b': '#001f4d'
+          '#bfdbfe': '#3399ff',
+          '#93c5fd': '#66b3ff',
+          '#60a5fa': '#99ccff',
+          '#3b82f6': '#b3d1ff',
+          '#1e40af': '#3366cc',
+          '#1e3a8a': '#003399',
+          '#0c1d56': '#001f4d'
         };
         var match = orig.match(/#([0-9a-fA-F]{6})/);
         if (match && cbMap[match[0]]) {
@@ -987,20 +987,20 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         <div class="legend-content" id="legend-content">
             <div class="legend-item"><div class="legend-color" style="background: #67000d;"></div>Annihilation Republican (≥40.00%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #a50f15;"></div>Dominant Republican (30.00-39.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #cb181d;"></div>Stronghold Republican (20.00-29.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #ef3b2c;"></div>Safe Republican (10.00-19.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #fb6a4a;"></div>Likely Republican (5.50-9.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #fcae91;"></div>Lean Republican (1.00-5.49%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #fee8c8;"></div>Tilt Republican (0.50-0.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #7f1d1d;"></div>Dominant Republican (30.00-39.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #991b1b;"></div>Stronghold Republican (20.00-29.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #dc2626;"></div>Safe Republican (10.00-19.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #ef4444;"></div>Likely Republican (5.50-9.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #f87171;"></div>Lean Republican (1.00-5.49%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #fca5a5;"></div>Tilt Republican (0.50-0.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #f7f7f7; border: 1px solid #999;"></div>Tossup (<0.50%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #e1f5fe;"></div>Tilt Democratic (0.50-0.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #c6dbef;"></div>Lean Democratic (1.00-5.49%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #9ecae1;"></div>Likely Democratic (5.50-9.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #6baed6;"></div>Safe Democratic (10.00-19.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #3182bd;"></div>Stronghold Democratic (20.00-29.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #08519c;"></div>Dominant Democratic (30.00-39.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #08306b;"></div>Annihilation Democratic (≥40.00%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #bfdbfe;"></div>Tilt Democratic (0.50-0.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #93c5fd;"></div>Lean Democratic (1.00-5.49%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #60a5fa;"></div>Likely Democratic (5.50-9.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #3b82f6;"></div>Safe Democratic (10.00-19.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #1e40af;"></div>Stronghold Democratic (20.00-29.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #1e3a8a;"></div>Dominant Democratic (30.00-39.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #0c1d56;"></div>Annihilation Democratic (≥40.00%)</div>
         </div>
     </div>
 
@@ -1983,7 +1983,9 @@ function toggleSidebar() {
         } else if (roundedMargin >= 0.5) {
           countyCompLabel = winner === 'Republican' ? 'Tilt Republican' : 'Tilt Democratic';
         } else {
-          countyCompLabel = `Tossup (${winner} win)`;
+          countyCompLabel = winner === 'Republican'
+            ? 'Tossup (Republican Win)'
+            : (winner === 'Democratic' ? 'Tossup (Democratic Win)' : 'Tossup (Tie)');
         }
       // Accessibility palette for winner color
       function cbColorForMargin(marginPct, winner) {
@@ -2049,7 +2051,7 @@ function toggleSidebar() {
   sidebarContent += `<div class="vote-breakdown">`;
   sidebarContent += '<h3 class="sidebar-section-title">🗳️ Vote Breakdown</h3>';
   // For colorblind mode, use the correct accessibility palette for Republican vote breakdown
-  let repColor = '#ef3b2c';
+  let repColor = '#dc2626';
   if (isColorblind) {
     if (parseFloat(marginPct) >= 40) repColor = '#ff9900';
     else if (parseFloat(marginPct) >= 30) repColor = '#ffb84d';
@@ -2061,7 +2063,7 @@ function toggleSidebar() {
     else repColor = '#cccccc';
   } else {
     // Non-accessibility mode: always use red for Republican vote breakdown
-    repColor = '#ef3b2c';
+    repColor = '#dc2626';
   }
   let demColor;
   if (isColorblind) {
@@ -2080,7 +2082,16 @@ function toggleSidebar() {
   // Competitiveness
   let finalCompColor = '#6b7280'; // Default gray
   let finalCompLabel = countyCompLabel;
-  finalCompColor = categoryColorForMargin(roundedMargin, winnerCode);
+  if (roundedMargin < 0.5) {
+    finalCompLabel = winner === 'Republican'
+      ? 'Tossup (Republican Win)'
+      : (winner === 'Democratic' ? 'Tossup (Democratic Win)' : 'Tossup (Tie)');
+    finalCompColor = winner === 'Republican'
+      ? '#dc2626'
+      : (winner === 'Democratic' ? '#2563eb' : '#6b7280');
+  } else {
+    finalCompColor = categoryColorForMargin(roundedMargin, winnerCode);
+  }
   
   sidebarContent += `<div class="competitiveness-section">`;
   sidebarContent += '<h3 class="sidebar-section-title">🎯 Competitiveness</h3>';
@@ -3057,12 +3068,17 @@ function filterValidContests(contests) {
         if (!normalizedElectionCounty.includes(' COUNTY') && !normalizedElectionCounty.includes(' CITY')) {
           normalizedElectionCounty = normalizedElectionCounty + ' COUNTY';
         }
-        // Handle St. Louis City case sensitivity: "St. Louis City" -> "ST. LOUIS CITY"
-        // but GeoJSON has "St. Louis city" which uppercases to "ST. LOUIS CITY"
-        
-        colorExpression.push(
-          ['==', countyNameExpr, normalizedElectionCounty]
-        );
+        // Handle alternate abbreviations like "Saint Mary's County" <-> "St. Mary's County".
+        const normalizedCountyVariants = new Set([normalizedElectionCounty]);
+        normalizedCountyVariants.add(normalizedElectionCounty.replace(/\bSAINT\b/g, 'ST.'));
+        normalizedCountyVariants.add(normalizedElectionCounty.replace(/\bSAINT\b/g, 'ST'));
+        normalizedCountyVariants.add(normalizedElectionCounty.replace(/\bST\.\s+/g, 'SAINT '));
+        normalizedCountyVariants.add(normalizedElectionCounty.replace(/\bST\s+/g, 'SAINT '));
+
+        const variantChecks = Array.from(normalizedCountyVariants)
+          .filter(Boolean)
+          .map(v => ['==', countyNameExpr, v]);
+        colorExpression.push(variantChecks.length === 1 ? variantChecks[0] : ['any', ...variantChecks]);
         colorExpression.push(competitiveness.color);
         matchCount++;
       }
@@ -3124,25 +3140,41 @@ function filterValidContests(contests) {
       if (!countyResults || !countyName || typeof countyName !== 'string') return null;
 
       const candidates = [];
+      const candidateSet = new Set();
+      function addCandidate(name) {
+        const n = (name || '').toString().trim();
+        if (!n || candidateSet.has(n)) return;
+        candidateSet.add(n);
+        candidates.push(n);
+      }
+      function addSaintVariants(name) {
+        const n = (name || '').toString().trim();
+        if (!n) return;
+        addCandidate(n);
+        addCandidate(n.replace(/\bSaint\b/gi, 'St.'));
+        addCandidate(n.replace(/\bSaint\b/gi, 'St'));
+        addCandidate(n.replace(/\bSt\.?\b/gi, 'Saint'));
+      }
+
       const base = countyName.trim();
       const normalizedCity = base.replace(/ city$/i, ' City');
       const strippedCounty = base.replace(/ County$/i, '');
 
-      candidates.push(base);
-      candidates.push(normalizedCity);
-      candidates.push(strippedCounty);
+      addSaintVariants(base);
+      addSaintVariants(normalizedCity);
+      addSaintVariants(strippedCounty);
       if (!/ county$/i.test(base) && !/ city$/i.test(base)) {
-        candidates.push(`${base} County`);
+        addSaintVariants(`${base} County`);
       }
       if (!/ city$/i.test(base)) {
-        candidates.push(`${base} City`);
+        addSaintVariants(`${base} City`);
       }
 
       for (const key of candidates) {
         if (countyResults[key]) return countyResults[key];
       }
 
-      // Case-insensitive fallback for mixed "city"/"City" or legacy key casing.
+      // Case-insensitive fallback for mixed "city"/"City", "St."/"Saint", or legacy key casing.
       const targetSet = new Set(candidates.map(v => v.toUpperCase()));
       for (const k of Object.keys(countyResults)) {
         if (targetSet.has(String(k).toUpperCase())) return countyResults[k];
@@ -3225,11 +3257,50 @@ function filterValidContests(contests) {
           (${Math.abs(result.margin || 0).toLocaleString()} votes)
         </div>
         
-        ${result.competitiveness ? `
-        <div style="padding: 12px; border-radius: 6px; background: ${result.competitiveness.color}20; border-left: 4px solid ${result.competitiveness.color};">
-          <strong>Rating:</strong> ${result.competitiveness.category} ${result.competitiveness.party}
+        ${result.competitiveness ? (() => {
+          const demVotes = Number(result.dem_votes) || 0;
+          const repVotes = Number(result.rep_votes) || 0;
+          const winner = demVotes > repVotes ? 'Democratic' : (repVotes > demVotes ? 'Republican' : 'Tie');
+          const marginPct = Math.abs(Number(result.margin_pct) || 0);
+          const winnerCode = winner === 'Republican' ? 'R' : (winner === 'Democratic' ? 'D' : 'T');
+          let ratingLabel = '';
+          let ratingColor = '#6b7280';
+
+          if (marginPct >= 40) {
+            ratingLabel = winnerCode === 'R' ? 'Annihilation Republican' : 'Annihilation Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 30) {
+            ratingLabel = winnerCode === 'R' ? 'Dominant Republican' : 'Dominant Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 20) {
+            ratingLabel = winnerCode === 'R' ? 'Stronghold Republican' : 'Stronghold Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 10) {
+            ratingLabel = winnerCode === 'R' ? 'Safe Republican' : 'Safe Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 5.5) {
+            ratingLabel = winnerCode === 'R' ? 'Likely Republican' : 'Likely Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 1) {
+            ratingLabel = winnerCode === 'R' ? 'Lean Republican' : 'Lean Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else if (marginPct >= 0.5) {
+            ratingLabel = winnerCode === 'R' ? 'Tilt Republican' : 'Tilt Democratic';
+            ratingColor = categoryColorForMargin(marginPct, winnerCode);
+          } else {
+            ratingLabel = winner === 'Republican'
+              ? 'Tossup (Republican Win)'
+              : (winner === 'Democratic' ? 'Tossup (Democratic Win)' : 'Tossup (Tie)');
+            ratingColor = winner === 'Republican'
+              ? '#dc2626'
+              : (winner === 'Democratic' ? '#2563eb' : '#6b7280');
+          }
+          return `
+        <div style="padding: 12px; border-radius: 6px; background: ${ratingColor}20; border-left: 4px solid ${ratingColor};">
+          <strong>Rating:</strong> ${ratingLabel}
         </div>
-        ` : ''}
+        `;
+        })() : ''}
       `;
       
       sidebarContent.innerHTML = html;
@@ -3249,21 +3320,21 @@ function filterValidContests(contests) {
     }
 
     function categoryColorForMargin(marginPct, winner) {
-      // Maryland map criteria: exact same thresholds and colors
+      // Match MO sidebar competitiveness palette for non-tossup tiers.
       if (marginPct >= 40) {
-        return winner === 'R' ? '#67000d' : '#08306b'; // Annihilation
+        return winner === 'R' ? '#67000d' : '#0c1d56'; // Annihilation
       } else if (marginPct >= 30) {
-        return winner === 'R' ? '#a50f15' : '#08519c'; // Dominant
+        return winner === 'R' ? '#7f1d1d' : '#1e3a8a'; // Dominant
       } else if (marginPct >= 20) {
-        return winner === 'R' ? '#cb181d' : '#3182bd'; // Stronghold
+        return winner === 'R' ? '#991b1b' : '#1e40af'; // Stronghold
       } else if (marginPct >= 10) {
-        return winner === 'R' ? '#ef3b2c' : '#6baed6'; // Safe
+        return winner === 'R' ? '#dc2626' : '#3b82f6'; // Safe
       } else if (marginPct >= 5.5) {
-        return winner === 'R' ? '#fb6a4a' : '#9ecae1'; // Likely
+        return winner === 'R' ? '#ef4444' : '#60a5fa'; // Likely
       } else if (marginPct >= 1) {
-        return winner === 'R' ? '#fcae91' : '#c6dbef'; // Lean
+        return winner === 'R' ? '#f87171' : '#93c5fd'; // Lean
       } else if (marginPct >= 0.5) {
-        return winner === 'R' ? '#fee8c8' : '#e1f5fe'; // Tilt
+        return winner === 'R' ? '#fca5a5' : '#bfdbfe'; // Tilt
       } else {
         return '#f7f7f7'; // Tossup
       }
@@ -3783,3 +3854,4 @@ if (topSearch) topSearch.parentNode.removeChild(topSearch);
     </script>
 </body>
 </html>
+
