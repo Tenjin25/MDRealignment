@@ -3010,7 +3010,7 @@
           "total_votes": 29503,
           "two_party_total": 29306,
           "margin": 5618,
-          "margin_pct": "19.17",
+          "margin_pct": "19.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -3042,7 +3042,7 @@
           "total_votes": 155101,
           "two_party_total": 153980,
           "margin": 43100,
-          "margin_pct": "27.99",
+          "margin_pct": "27.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3074,7 +3074,7 @@
           "total_votes": 287295,
           "two_party_total": 285451,
           "margin": 42311,
-          "margin_pct": "14.82",
+          "margin_pct": "14.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -3106,7 +3106,7 @@
           "total_votes": 232367,
           "two_party_total": 229902,
           "margin": 111724,
-          "margin_pct": "48.60",
+          "margin_pct": "48.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -3138,7 +3138,7 @@
           "total_votes": 17397,
           "two_party_total": 17332,
           "margin": 4580,
-          "margin_pct": "26.43",
+          "margin_pct": "26.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3170,7 +3170,7 @@
           "total_votes": 7123,
           "two_party_total": 7101,
           "margin": 2221,
-          "margin_pct": "31.28",
+          "margin_pct": "31.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -3202,7 +3202,7 @@
           "total_votes": 43747,
           "two_party_total": 43592,
           "margin": 18856,
-          "margin_pct": "43.26",
+          "margin_pct": "43.10",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -3234,7 +3234,7 @@
           "total_votes": 21155,
           "two_party_total": 21031,
           "margin": 5417,
-          "margin_pct": "25.76",
+          "margin_pct": "25.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3266,7 +3266,7 @@
           "total_votes": 32764,
           "two_party_total": 32651,
           "margin": 9005,
-          "margin_pct": "27.58",
+          "margin_pct": "27.48",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3298,7 +3298,7 @@
           "total_votes": 10140,
           "two_party_total": 10052,
           "margin": 2634,
-          "margin_pct": "26.20",
+          "margin_pct": "25.98",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3330,7 +3330,7 @@
           "total_votes": 49867,
           "two_party_total": 49636,
           "margin": 15514,
-          "margin_pct": "31.26",
+          "margin_pct": "31.11",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -3362,7 +3362,7 @@
           "total_votes": 9282,
           "two_party_total": 9222,
           "margin": 4108,
-          "margin_pct": "44.55",
+          "margin_pct": "44.26",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -3394,7 +3394,7 @@
           "total_votes": 58566,
           "two_party_total": 58296,
           "margin": 18690,
-          "margin_pct": "32.06",
+          "margin_pct": "31.91",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -3426,7 +3426,7 @@
           "total_votes": 78530,
           "two_party_total": 78160,
           "margin": 10146,
-          "margin_pct": "12.98",
+          "margin_pct": "12.92",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -3458,7 +3458,7 @@
           "total_votes": 6732,
           "two_party_total": 6686,
           "margin": 836,
-          "margin_pct": "12.50",
+          "margin_pct": "12.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -3490,7 +3490,7 @@
           "total_votes": 320896,
           "two_party_total": 319378,
           "margin": 10996,
-          "margin_pct": "3.44",
+          "margin_pct": "3.43",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -3522,7 +3522,7 @@
           "total_votes": 222881,
           "two_party_total": 220361,
           "margin": 47271,
-          "margin_pct": "21.45",
+          "margin_pct": "21.21",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -3554,7 +3554,7 @@
           "total_votes": 11703,
           "two_party_total": 11660,
           "margin": 3946,
-          "margin_pct": "33.84",
+          "margin_pct": "33.72",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -3586,7 +3586,7 @@
           "total_votes": 7188,
           "two_party_total": 7133,
           "margin": 1311,
-          "margin_pct": "18.38",
+          "margin_pct": "18.24",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -3618,7 +3618,7 @@
           "total_votes": 20267,
           "two_party_total": 20201,
           "margin": 5333,
-          "margin_pct": "26.40",
+          "margin_pct": "26.31",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3650,7 +3650,7 @@
           "total_votes": 12199,
           "two_party_total": 12118,
           "margin": 4222,
-          "margin_pct": "34.84",
+          "margin_pct": "34.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -3682,7 +3682,7 @@
           "total_votes": 40638,
           "two_party_total": 40320,
           "margin": 11504,
-          "margin_pct": "28.53",
+          "margin_pct": "28.31",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3714,7 +3714,7 @@
           "total_votes": 25755,
           "two_party_total": 25685,
           "margin": 6859,
-          "margin_pct": "26.70",
+          "margin_pct": "26.63",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3746,7 +3746,7 @@
           "total_votes": 13262,
           "two_party_total": 13217,
           "margin": 3643,
-          "margin_pct": "27.56",
+          "margin_pct": "27.47",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -3811,7 +3811,7 @@
           "total_votes": 142709,
           "two_party_total": 142700,
           "margin": 12594,
-          "margin_pct": "8.83",
+          "margin_pct": "8.82",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -3873,7 +3873,7 @@
           "total_votes": 219318,
           "two_party_total": 219290,
           "margin": 130828,
-          "margin_pct": "59.66",
+          "margin_pct": "59.65",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -3966,7 +3966,7 @@
           "total_votes": 41860,
           "two_party_total": 41856,
           "margin": 3246,
-          "margin_pct": "7.76",
+          "margin_pct": "7.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -3997,7 +3997,7 @@
           "total_votes": 18636,
           "two_party_total": 18629,
           "margin": 2585,
-          "margin_pct": "13.88",
+          "margin_pct": "13.87",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -4245,7 +4245,7 @@
           "total_votes": 317845,
           "two_party_total": 317639,
           "margin": 79329,
-          "margin_pct": "24.97",
+          "margin_pct": "24.96",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -4276,7 +4276,7 @@
           "total_votes": 206018,
           "two_party_total": 205961,
           "margin": 81009,
-          "margin_pct": "39.33",
+          "margin_pct": "39.32",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -4369,7 +4369,7 @@
           "total_votes": 17764,
           "two_party_total": 17763,
           "margin": 3193,
-          "margin_pct": "17.98",
+          "margin_pct": "17.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -5343,7 +5343,7 @@
           "total_votes": 105347,
           "two_party_total": 105338,
           "margin": 66340,
-          "margin_pct": "62.98",
+          "margin_pct": "62.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -6089,7 +6089,7 @@
           "total_votes": 113809,
           "two_party_total": 113802,
           "margin": 49282,
-          "margin_pct": "43.31",
+          "margin_pct": "43.30",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -6306,7 +6306,7 @@
           "total_votes": 33120,
           "two_party_total": 33116,
           "margin": 2320,
-          "margin_pct": "7.01",
+          "margin_pct": "7.00",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -6337,7 +6337,7 @@
           "total_votes": 6632,
           "two_party_total": 6631,
           "margin": 1389,
-          "margin_pct": "20.95",
+          "margin_pct": "20.94",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -6461,7 +6461,7 @@
           "total_votes": 205433,
           "two_party_total": 205392,
           "margin": 82504,
-          "margin_pct": "40.17",
+          "margin_pct": "40.16",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -6492,7 +6492,7 @@
           "total_votes": 130194,
           "two_party_total": 130162,
           "margin": 75122,
-          "margin_pct": "57.71",
+          "margin_pct": "57.70",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -6744,7 +6744,7 @@
           "total_votes": 30595,
           "two_party_total": 25363,
           "margin": 2361,
-          "margin_pct": "9.31",
+          "margin_pct": "7.72",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -6780,7 +6780,7 @@
           "total_votes": 185634,
           "two_party_total": 150100,
           "margin": 12834,
-          "margin_pct": "8.55",
+          "margin_pct": "6.91",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -6816,14 +6816,14 @@
           "total_votes": 323220,
           "two_party_total": 270226,
           "margin": 16770,
-          "margin_pct": "6.21",
+          "margin_pct": "5.19",
           "winner": "DEM",
           "competitiveness": {
-            "category": "Likely",
+            "category": "Lean",
             "party": "Democratic",
-            "code": "D_LIKELY",
-            "color": "#9ecae1",
-            "label": "Likely Democratic (5.50-9.99%)"
+            "code": "D_LEAN",
+            "color": "#c6dbef",
+            "label": "Lean Democratic (1.00-5.49%)"
           },
           "all_parties": {
             "DEM": 143498,
@@ -6852,7 +6852,7 @@
           "total_votes": 245087,
           "two_party_total": 226481,
           "margin": 145031,
-          "margin_pct": "64.04",
+          "margin_pct": "59.18",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -6888,7 +6888,7 @@
           "total_votes": 23249,
           "two_party_total": 18645,
           "margin": 1407,
-          "margin_pct": "7.55",
+          "margin_pct": "6.05",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -6924,7 +6924,7 @@
           "total_votes": 8460,
           "two_party_total": 6678,
           "margin": 1034,
-          "margin_pct": "15.48",
+          "margin_pct": "12.22",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -6960,7 +6960,7 @@
           "total_votes": 54929,
           "two_party_total": 43853,
           "margin": 12957,
-          "margin_pct": "29.55",
+          "margin_pct": "23.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -6996,7 +6996,7 @@
           "total_votes": 27319,
           "two_party_total": 21016,
           "margin": 552,
-          "margin_pct": "2.63",
+          "margin_pct": "2.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -7032,7 +7032,7 @@
           "total_votes": 38454,
           "two_party_total": 31792,
           "margin": 2794,
-          "margin_pct": "8.79",
+          "margin_pct": "7.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -7068,14 +7068,14 @@
           "total_votes": 10957,
           "two_party_total": 8867,
           "margin": 1001,
-          "margin_pct": "11.29",
+          "margin_pct": "9.14",
           "winner": "REP",
           "competitiveness": {
-            "category": "Safe",
+            "category": "Likely",
             "party": "Republican",
-            "code": "R_SAFE",
-            "color": "#ef3b2c",
-            "label": "Safe Republican (10.00-19.99%)"
+            "code": "R_LIKELY",
+            "color": "#fb6a4a",
+            "label": "Likely Republican (5.50-9.99%)"
           },
           "all_parties": {
             "DEM": 3933,
@@ -7104,7 +7104,7 @@
           "total_votes": 64691,
           "two_party_total": 53138,
           "margin": 9442,
-          "margin_pct": "17.77",
+          "margin_pct": "14.60",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7140,14 +7140,14 @@
           "total_votes": 10580,
           "two_party_total": 8570,
           "margin": 2858,
-          "margin_pct": "33.35",
+          "margin_pct": "27.01",
           "winner": "REP",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Republican",
-            "code": "R_DOMINANT",
-            "color": "#a50f15",
-            "label": "Dominant Republican (30.00-39.99%)"
+            "code": "R_STRONGHOLD",
+            "color": "#cb181d",
+            "label": "Stronghold Republican (20.00-29.99%)"
           },
           "all_parties": {
             "DEM": 2856,
@@ -7176,7 +7176,7 @@
           "total_votes": 80687,
           "two_party_total": 63515,
           "margin": 9185,
-          "margin_pct": "14.46",
+          "margin_pct": "11.38",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7212,7 +7212,7 @@
           "total_votes": 99798,
           "two_party_total": 83360,
           "margin": 6172,
-          "margin_pct": "7.40",
+          "margin_pct": "6.18",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -7248,7 +7248,7 @@
           "total_votes": 7628,
           "two_party_total": 6187,
           "margin": 1,
-          "margin_pct": "0.02",
+          "margin_pct": "0.01",
           "winner": "REP",
           "competitiveness": {
             "category": "Tossup",
@@ -7284,7 +7284,7 @@
           "total_votes": 362613,
           "two_party_total": 319467,
           "margin": 80057,
-          "margin_pct": "25.06",
+          "margin_pct": "22.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -7320,7 +7320,7 @@
           "total_votes": 256859,
           "two_party_total": 231646,
           "margin": 105736,
-          "margin_pct": "45.65",
+          "margin_pct": "41.16",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -7356,7 +7356,7 @@
           "total_votes": 14514,
           "two_party_total": 11497,
           "margin": 2161,
-          "margin_pct": "18.80",
+          "margin_pct": "14.89",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7392,7 +7392,7 @@
           "total_votes": 7936,
           "two_party_total": 6660,
           "margin": 240,
-          "margin_pct": "3.60",
+          "margin_pct": "3.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -7428,7 +7428,7 @@
           "total_votes": 25085,
           "two_party_total": 20416,
           "margin": 2554,
-          "margin_pct": "12.51",
+          "margin_pct": "10.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7464,7 +7464,7 @@
           "total_votes": 13708,
           "two_party_total": 11416,
           "margin": 2132,
-          "margin_pct": "18.68",
+          "margin_pct": "15.55",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7500,7 +7500,7 @@
           "total_votes": 46208,
           "two_party_total": 38473,
           "margin": 5481,
-          "margin_pct": "14.25",
+          "margin_pct": "11.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -7536,7 +7536,7 @@
           "total_votes": 30272,
           "two_party_total": 25041,
           "margin": 2079,
-          "margin_pct": "8.30",
+          "margin_pct": "6.87",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -7572,7 +7572,7 @@
           "total_votes": 16559,
           "two_party_total": 13277,
           "margin": 1197,
-          "margin_pct": "9.02",
+          "margin_pct": "7.23",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -7641,7 +7641,7 @@
           "total_votes": 180997,
           "two_party_total": 180802,
           "margin": 61778,
-          "margin_pct": "34.17",
+          "margin_pct": "34.13",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -7703,7 +7703,7 @@
           "total_votes": 225943,
           "two_party_total": 225920,
           "margin": 166252,
-          "margin_pct": "73.59",
+          "margin_pct": "73.58",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -7982,7 +7982,7 @@
           "total_votes": 79066,
           "two_party_total": 79062,
           "margin": 23130,
-          "margin_pct": "29.26",
+          "margin_pct": "29.25",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -8075,7 +8075,7 @@
           "total_votes": 353628,
           "two_party_total": 353502,
           "margin": 141508,
-          "margin_pct": "40.03",
+          "margin_pct": "40.02",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -8199,7 +8199,7 @@
           "total_votes": 21493,
           "two_party_total": 21484,
           "margin": 6402,
-          "margin_pct": "29.80",
+          "margin_pct": "29.79",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -8230,7 +8230,7 @@
           "total_votes": 11407,
           "two_party_total": 11403,
           "margin": 3471,
-          "margin_pct": "30.44",
+          "margin_pct": "30.43",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -8261,7 +8261,7 @@
           "total_votes": 39750,
           "two_party_total": 39739,
           "margin": 9259,
-          "margin_pct": "23.30",
+          "margin_pct": "23.29",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -11248,7 +11248,7 @@
           "total_votes": 26002,
           "two_party_total": 23161,
           "margin": 1111,
-          "margin_pct": "4.80",
+          "margin_pct": "4.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -11284,7 +11284,7 @@
           "total_votes": 171685,
           "two_party_total": 155724,
           "margin": 11428,
-          "margin_pct": "7.34",
+          "margin_pct": "6.66",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -11320,7 +11320,7 @@
           "total_votes": 269968,
           "two_party_total": 247048,
           "margin": 18150,
-          "margin_pct": "7.35",
+          "margin_pct": "6.72",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -11356,7 +11356,7 @@
           "total_votes": 183323,
           "two_party_total": 173909,
           "margin": 116975,
-          "margin_pct": "67.26",
+          "margin_pct": "63.81",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -11392,7 +11392,7 @@
           "total_votes": 23566,
           "two_party_total": 21517,
           "margin": 1501,
-          "margin_pct": "6.98",
+          "margin_pct": "6.37",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -11428,7 +11428,7 @@
           "total_votes": 8177,
           "two_party_total": 7125,
           "margin": 623,
-          "margin_pct": "8.74",
+          "margin_pct": "7.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -11464,7 +11464,7 @@
           "total_votes": 52997,
           "two_party_total": 47438,
           "margin": 13194,
-          "margin_pct": "27.81",
+          "margin_pct": "24.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -11500,7 +11500,7 @@
           "total_votes": 24460,
           "two_party_total": 21029,
           "margin": 741,
-          "margin_pct": "3.52",
+          "margin_pct": "3.03",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -11536,7 +11536,7 @@
           "total_votes": 35825,
           "two_party_total": 33322,
           "margin": 1542,
-          "margin_pct": "4.63",
+          "margin_pct": "4.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -11572,7 +11572,7 @@
           "total_votes": 10052,
           "two_party_total": 8950,
           "margin": 276,
-          "margin_pct": "3.08",
+          "margin_pct": "2.75",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -11608,7 +11608,7 @@
           "total_votes": 65303,
           "two_party_total": 59576,
           "margin": 9414,
-          "margin_pct": "15.80",
+          "margin_pct": "14.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -11644,7 +11644,7 @@
           "total_votes": 9786,
           "two_party_total": 8521,
           "margin": 2279,
-          "margin_pct": "26.75",
+          "margin_pct": "23.29",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -11680,7 +11680,7 @@
           "total_votes": 78191,
           "two_party_total": 69465,
           "margin": 9907,
-          "margin_pct": "14.26",
+          "margin_pct": "12.67",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -11716,7 +11716,7 @@
           "total_votes": 95508,
           "two_party_total": 88420,
           "margin": 6722,
-          "margin_pct": "7.60",
+          "margin_pct": "7.04",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -11752,7 +11752,7 @@
           "total_votes": 6998,
           "two_party_total": 6262,
           "margin": 152,
-          "margin_pct": "2.43",
+          "margin_pct": "2.17",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -11788,7 +11788,7 @@
           "total_votes": 334897,
           "two_party_total": 316547,
           "margin": 81087,
-          "margin_pct": "25.62",
+          "margin_pct": "24.21",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -11824,7 +11824,7 @@
           "total_votes": 240302,
           "two_party_total": 229313,
           "margin": 123917,
-          "margin_pct": "54.04",
+          "margin_pct": "51.57",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -11860,7 +11860,7 @@
           "total_votes": 13639,
           "two_party_total": 12201,
           "margin": 2093,
-          "margin_pct": "17.15",
+          "margin_pct": "15.35",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -11896,7 +11896,7 @@
           "total_votes": 7169,
           "two_party_total": 6476,
           "margin": 638,
-          "margin_pct": "9.85",
+          "margin_pct": "8.90",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -11932,7 +11932,7 @@
           "total_votes": 23808,
           "two_party_total": 21823,
           "margin": 1847,
-          "margin_pct": "8.46",
+          "margin_pct": "7.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -11968,7 +11968,7 @@
           "total_votes": 12855,
           "two_party_total": 11818,
           "margin": 2176,
-          "margin_pct": "18.41",
+          "margin_pct": "16.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -12004,7 +12004,7 @@
           "total_votes": 42142,
           "two_party_total": 37915,
           "margin": 4953,
-          "margin_pct": "13.06",
+          "margin_pct": "11.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -12040,7 +12040,7 @@
           "total_votes": 27286,
           "two_party_total": 24990,
           "margin": 384,
-          "margin_pct": "1.54",
+          "margin_pct": "1.41",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -12076,7 +12076,7 @@
           "total_votes": 16931,
           "two_party_total": 15208,
           "margin": 34,
-          "margin_pct": "0.22",
+          "margin_pct": "0.20",
           "winner": "REP",
           "competitiveness": {
             "category": "Tossup",
@@ -15006,7 +15006,7 @@
           "total_votes": 52742,
           "two_party_total": 51100,
           "margin": 7524,
-          "margin_pct": "14.72",
+          "margin_pct": "14.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15043,7 +15043,7 @@
           "total_votes": 401314,
           "two_party_total": 387666,
           "margin": 29170,
-          "margin_pct": "7.52",
+          "margin_pct": "7.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -15080,7 +15080,7 @@
           "total_votes": 608171,
           "two_party_total": 587339,
           "margin": 55207,
-          "margin_pct": "9.40",
+          "margin_pct": "9.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -15117,7 +15117,7 @@
           "total_votes": 384657,
           "two_party_total": 371830,
           "margin": 263230,
-          "margin_pct": "70.79",
+          "margin_pct": "68.43",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -15154,7 +15154,7 @@
           "total_votes": 59612,
           "two_party_total": 57980,
           "margin": 6036,
-          "margin_pct": "10.41",
+          "margin_pct": "10.13",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15191,7 +15191,7 @@
           "total_votes": 17904,
           "two_party_total": 17392,
           "margin": 3808,
-          "margin_pct": "21.90",
+          "margin_pct": "21.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -15228,7 +15228,7 @@
           "total_votes": 128054,
           "two_party_total": 123776,
           "margin": 43192,
-          "margin_pct": "34.90",
+          "margin_pct": "33.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -15265,7 +15265,7 @@
           "total_votes": 57752,
           "two_party_total": 55642,
           "margin": 6334,
-          "margin_pct": "11.38",
+          "margin_pct": "10.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15339,14 +15339,14 @@
           "total_votes": 22784,
           "two_party_total": 22158,
           "margin": 1230,
-          "margin_pct": "5.55",
+          "margin_pct": "5.40",
           "winner": "REP",
           "competitiveness": {
-            "category": "Likely",
+            "category": "Lean",
             "party": "Republican",
-            "code": "R_LIKELY",
-            "color": "#fb6a4a",
-            "label": "Likely Republican (5.50-9.99%)"
+            "code": "R_LEAN",
+            "color": "#fcae91",
+            "label": "Lean Republican (1.00-5.49%)"
           },
           "all_parties": {
             "DEM": 10464,
@@ -15376,7 +15376,7 @@
           "total_votes": 157322,
           "two_party_total": 152150,
           "margin": 29250,
-          "margin_pct": "19.22",
+          "margin_pct": "18.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15413,7 +15413,7 @@
           "total_votes": 21310,
           "two_party_total": 20772,
           "margin": 9284,
-          "margin_pct": "44.69",
+          "margin_pct": "43.57",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -15450,7 +15450,7 @@
           "total_votes": 182848,
           "two_party_total": 177054,
           "margin": 34394,
-          "margin_pct": "19.43",
+          "margin_pct": "18.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15487,7 +15487,7 @@
           "total_votes": 225558,
           "two_party_total": 216732,
           "margin": 17496,
-          "margin_pct": "8.07",
+          "margin_pct": "7.76",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -15524,7 +15524,7 @@
           "total_votes": 16170,
           "two_party_total": 15564,
           "margin": 1056,
-          "margin_pct": "6.78",
+          "margin_pct": "6.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -15561,14 +15561,14 @@
           "total_votes": 743376,
           "two_party_total": 714066,
           "margin": 215746,
-          "margin_pct": "30.21",
+          "margin_pct": "29.02",
           "winner": "DEM",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Democratic",
-            "code": "D_DOMINANT",
-            "color": "#08519c",
-            "label": "Dominant Democratic (30.00-39.99%)"
+            "code": "D_STRONGHOLD",
+            "color": "#3182bd",
+            "label": "Stronghold Democratic (20.00-29.99%)"
           },
           "all_parties": {
             "DEM": 464906,
@@ -15598,7 +15598,7 @@
           "total_votes": 543739,
           "two_party_total": 532212,
           "margin": 332264,
-          "margin_pct": "62.43",
+          "margin_pct": "61.11",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -15635,7 +15635,7 @@
           "total_votes": 33522,
           "two_party_total": 32454,
           "margin": 7426,
-          "margin_pct": "22.88",
+          "margin_pct": "22.15",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -15672,7 +15672,7 @@
           "total_votes": 15208,
           "two_party_total": 14788,
           "margin": 352,
-          "margin_pct": "2.38",
+          "margin_pct": "2.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -15709,7 +15709,7 @@
           "total_votes": 59002,
           "two_party_total": 57536,
           "margin": 9888,
-          "margin_pct": "17.19",
+          "margin_pct": "16.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -15746,14 +15746,14 @@
           "total_votes": 30468,
           "two_party_total": 29456,
           "margin": 6040,
-          "margin_pct": "20.51",
+          "margin_pct": "19.82",
           "winner": "REP",
           "competitiveness": {
-            "category": "Stronghold",
+            "category": "Safe",
             "party": "Republican",
-            "code": "R_STRONGHOLD",
-            "color": "#cb181d",
-            "label": "Stronghold Republican (20.00-29.99%)"
+            "code": "R_SAFE",
+            "color": "#ef3b2c",
+            "label": "Safe Republican (10.00-19.99%)"
           },
           "all_parties": {
             "DEM": 11708,
@@ -15783,7 +15783,7 @@
           "total_votes": 94940,
           "two_party_total": 92338,
           "margin": 19454,
-          "margin_pct": "21.07",
+          "margin_pct": "20.49",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -15820,7 +15820,7 @@
           "total_votes": 63590,
           "two_party_total": 61614,
           "margin": 3738,
-          "margin_pct": "6.07",
+          "margin_pct": "5.88",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -15857,7 +15857,7 @@
           "total_votes": 41506,
           "two_party_total": 40262,
           "margin": 2706,
-          "margin_pct": "6.72",
+          "margin_pct": "6.52",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -15927,7 +15927,7 @@
           "total_votes": 197558,
           "two_party_total": 197381,
           "margin": 5873,
-          "margin_pct": "2.98",
+          "margin_pct": "2.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -15958,7 +15958,7 @@
           "total_votes": 298454,
           "two_party_total": 298152,
           "margin": 52950,
-          "margin_pct": "17.76",
+          "margin_pct": "17.74",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -15989,7 +15989,7 @@
           "total_votes": 182441,
           "two_party_total": 182284,
           "margin": 134236,
-          "margin_pct": "73.64",
+          "margin_pct": "73.58",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -16020,7 +16020,7 @@
           "total_votes": 28951,
           "two_party_total": 28927,
           "margin": 1683,
-          "margin_pct": "5.82",
+          "margin_pct": "5.81",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -16051,7 +16051,7 @@
           "total_votes": 8719,
           "two_party_total": 8712,
           "margin": 234,
-          "margin_pct": "2.69",
+          "margin_pct": "2.68",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -16082,7 +16082,7 @@
           "total_votes": 62630,
           "two_party_total": 62571,
           "margin": 15009,
-          "margin_pct": "23.99",
+          "margin_pct": "23.96",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -16268,7 +16268,7 @@
           "total_votes": 90077,
           "two_party_total": 90009,
           "margin": 6651,
-          "margin_pct": "7.39",
+          "margin_pct": "7.38",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -16299,7 +16299,7 @@
           "total_votes": 110541,
           "two_party_total": 110444,
           "margin": 14828,
-          "margin_pct": "13.43",
+          "margin_pct": "13.41",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -16361,7 +16361,7 @@
           "total_votes": 361063,
           "two_party_total": 360616,
           "margin": 140712,
-          "margin_pct": "39.02",
+          "margin_pct": "38.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -16423,7 +16423,7 @@
           "total_votes": 16323,
           "two_party_total": 16316,
           "margin": 1238,
-          "margin_pct": "7.59",
+          "margin_pct": "7.58",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -16454,7 +16454,7 @@
           "total_votes": 7219,
           "two_party_total": 7217,
           "margin": 2145,
-          "margin_pct": "29.72",
+          "margin_pct": "29.71",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -16516,7 +16516,7 @@
           "total_votes": 14840,
           "two_party_total": 14817,
           "margin": 825,
-          "margin_pct": "5.57",
+          "margin_pct": "5.56",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -16578,7 +16578,7 @@
           "total_votes": 31194,
           "two_party_total": 31180,
           "margin": 6712,
-          "margin_pct": "21.53",
+          "margin_pct": "21.52",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -16609,7 +16609,7 @@
           "total_votes": 20261,
           "two_party_total": 20250,
           "margin": 3878,
-          "margin_pct": "19.15",
+          "margin_pct": "19.14",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -16675,7 +16675,7 @@
           "total_votes": 170069,
           "two_party_total": 169949,
           "margin": 19731,
-          "margin_pct": "11.61",
+          "margin_pct": "11.60",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -16706,7 +16706,7 @@
           "total_votes": 271765,
           "two_party_total": 271577,
           "margin": 95583,
-          "margin_pct": "35.20",
+          "margin_pct": "35.17",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -16737,7 +16737,7 @@
           "total_votes": 148694,
           "two_party_total": 148630,
           "margin": 116204,
-          "margin_pct": "78.18",
+          "margin_pct": "78.15",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -16768,7 +16768,7 @@
           "total_votes": 24935,
           "two_party_total": 24916,
           "margin": 1038,
-          "margin_pct": "4.17",
+          "margin_pct": "4.16",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -16923,7 +16923,7 @@
           "total_votes": 9502,
           "two_party_total": 9488,
           "margin": 2548,
-          "margin_pct": "26.85",
+          "margin_pct": "26.82",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -16954,7 +16954,7 @@
           "total_votes": 62552,
           "two_party_total": 62498,
           "margin": 4556,
-          "margin_pct": "7.29",
+          "margin_pct": "7.28",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -16985,7 +16985,7 @@
           "total_votes": 8287,
           "two_party_total": 8274,
           "margin": 2386,
-          "margin_pct": "28.84",
+          "margin_pct": "28.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -17016,7 +17016,7 @@
           "total_votes": 82969,
           "two_party_total": 82914,
           "margin": 8736,
-          "margin_pct": "10.54",
+          "margin_pct": "10.53",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17047,7 +17047,7 @@
           "total_votes": 93562,
           "two_party_total": 93495,
           "margin": 20345,
-          "margin_pct": "21.76",
+          "margin_pct": "21.74",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -17109,7 +17109,7 @@
           "total_votes": 283660,
           "two_party_total": 283429,
           "margin": 105321,
-          "margin_pct": "37.16",
+          "margin_pct": "37.13",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -17140,7 +17140,7 @@
           "total_votes": 190422,
           "two_party_total": 190321,
           "margin": 126303,
-          "margin_pct": "66.36",
+          "margin_pct": "66.33",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -17171,7 +17171,7 @@
           "total_votes": 15767,
           "two_party_total": 15757,
           "margin": 365,
-          "margin_pct": "2.32",
+          "margin_pct": "2.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -17202,7 +17202,7 @@
           "total_votes": 6137,
           "two_party_total": 6130,
           "margin": 656,
-          "margin_pct": "10.70",
+          "margin_pct": "10.69",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17264,7 +17264,7 @@
           "total_votes": 13427,
           "two_party_total": 13417,
           "margin": 771,
-          "margin_pct": "5.75",
+          "margin_pct": "5.74",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -17326,7 +17326,7 @@
           "total_votes": 23861,
           "two_party_total": 23846,
           "margin": 2046,
-          "margin_pct": "8.58",
+          "margin_pct": "8.57",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -17357,7 +17357,7 @@
           "total_votes": 17565,
           "two_party_total": 17550,
           "margin": 2356,
-          "margin_pct": "13.42",
+          "margin_pct": "13.41",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17390,7 +17390,7 @@
           "total_votes": 21494,
           "two_party_total": 21482,
           "margin": 5396,
-          "margin_pct": "25.12",
+          "margin_pct": "25.10",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -17422,7 +17422,7 @@
           "total_votes": 172981,
           "two_party_total": 172294,
           "margin": 35350,
-          "margin_pct": "20.52",
+          "margin_pct": "20.44",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -17454,7 +17454,7 @@
           "total_votes": 274727,
           "two_party_total": 273607,
           "margin": 122091,
-          "margin_pct": "44.62",
+          "margin_pct": "44.44",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -17486,7 +17486,7 @@
           "total_votes": 150037,
           "two_party_total": 149313,
           "margin": 116697,
-          "margin_pct": "78.16",
+          "margin_pct": "77.78",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -17518,7 +17518,7 @@
           "total_votes": 25601,
           "two_party_total": 25544,
           "margin": 3132,
-          "margin_pct": "12.26",
+          "margin_pct": "12.23",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17550,7 +17550,7 @@
           "total_votes": 8074,
           "two_party_total": 8040,
           "margin": 964,
-          "margin_pct": "11.99",
+          "margin_pct": "11.94",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -17582,7 +17582,7 @@
           "total_votes": 58851,
           "two_party_total": 58695,
           "margin": 5331,
-          "margin_pct": "9.08",
+          "margin_pct": "9.06",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -17614,7 +17614,7 @@
           "total_votes": 24370,
           "two_party_total": 24286,
           "margin": 1688,
-          "margin_pct": "6.95",
+          "margin_pct": "6.93",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -17646,7 +17646,7 @@
           "total_votes": 34259,
           "two_party_total": 34192,
           "margin": 5968,
-          "margin_pct": "17.45",
+          "margin_pct": "17.42",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17678,7 +17678,7 @@
           "total_votes": 9825,
           "two_party_total": 9800,
           "margin": 2184,
-          "margin_pct": "22.29",
+          "margin_pct": "22.23",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -17710,7 +17710,7 @@
           "total_votes": 64225,
           "two_party_total": 63940,
           "margin": 2596,
-          "margin_pct": "4.06",
+          "margin_pct": "4.04",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -17742,7 +17742,7 @@
           "total_votes": 8689,
           "two_party_total": 8670,
           "margin": 976,
-          "margin_pct": "11.26",
+          "margin_pct": "11.23",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -17774,7 +17774,7 @@
           "total_votes": 84202,
           "two_party_total": 84005,
           "margin": 18855,
-          "margin_pct": "22.45",
+          "margin_pct": "22.39",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -17806,7 +17806,7 @@
           "total_votes": 94597,
           "two_party_total": 94010,
           "margin": 28724,
-          "margin_pct": "30.55",
+          "margin_pct": "30.36",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -17838,7 +17838,7 @@
           "total_votes": 7409,
           "two_party_total": 7394,
           "margin": 1112,
-          "margin_pct": "15.04",
+          "margin_pct": "15.01",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17870,7 +17870,7 @@
           "total_votes": 284815,
           "two_party_total": 282831,
           "margin": 120497,
-          "margin_pct": "42.60",
+          "margin_pct": "42.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -17902,7 +17902,7 @@
           "total_votes": 191385,
           "two_party_total": 190770,
           "margin": 129112,
-          "margin_pct": "67.68",
+          "margin_pct": "67.46",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -17934,7 +17934,7 @@
           "total_votes": 16155,
           "two_party_total": 16076,
           "margin": 558,
-          "margin_pct": "3.47",
+          "margin_pct": "3.45",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -17966,7 +17966,7 @@
           "total_votes": 6423,
           "two_party_total": 6412,
           "margin": 978,
-          "margin_pct": "15.25",
+          "margin_pct": "15.23",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -17998,7 +17998,7 @@
           "total_votes": 24778,
           "two_party_total": 24733,
           "margin": 2649,
-          "margin_pct": "10.71",
+          "margin_pct": "10.69",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -18094,7 +18094,7 @@
           "total_votes": 24419,
           "two_party_total": 24375,
           "margin": 777,
-          "margin_pct": "3.19",
+          "margin_pct": "3.18",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -18126,7 +18126,7 @@
           "total_votes": 18016,
           "two_party_total": 17976,
           "margin": 3746,
-          "margin_pct": "20.84",
+          "margin_pct": "20.79",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -18160,7 +18160,7 @@
           "total_votes": 22448,
           "two_party_total": 22247,
           "margin": 6585,
-          "margin_pct": "29.60",
+          "margin_pct": "29.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -18192,7 +18192,7 @@
           "total_votes": 176179,
           "two_party_total": 174740,
           "margin": 53196,
-          "margin_pct": "30.44",
+          "margin_pct": "30.19",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18224,7 +18224,7 @@
           "total_votes": 279387,
           "two_party_total": 277177,
           "margin": 64663,
-          "margin_pct": "23.33",
+          "margin_pct": "23.14",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -18256,7 +18256,7 @@
           "total_votes": 160106,
           "two_party_total": 158965,
           "margin": 81289,
-          "margin_pct": "51.14",
+          "margin_pct": "50.77",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -18288,7 +18288,7 @@
           "total_votes": 26255,
           "two_party_total": 26051,
           "margin": 6335,
-          "margin_pct": "24.32",
+          "margin_pct": "24.13",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -18320,7 +18320,7 @@
           "total_votes": 8418,
           "two_party_total": 8355,
           "margin": 4217,
-          "margin_pct": "50.47",
+          "margin_pct": "50.10",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18352,7 +18352,7 @@
           "total_votes": 59946,
           "two_party_total": 59441,
           "margin": 35215,
-          "margin_pct": "59.24",
+          "margin_pct": "58.74",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18384,7 +18384,7 @@
           "total_votes": 24891,
           "two_party_total": 24627,
           "margin": 9285,
-          "margin_pct": "37.70",
+          "margin_pct": "37.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18416,7 +18416,7 @@
           "total_votes": 35100,
           "two_party_total": 34848,
           "margin": 4542,
-          "margin_pct": "13.03",
+          "margin_pct": "12.94",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -18448,7 +18448,7 @@
           "total_votes": 10325,
           "two_party_total": 10259,
           "margin": 3623,
-          "margin_pct": "35.32",
+          "margin_pct": "35.09",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18480,7 +18480,7 @@
           "total_votes": 66155,
           "two_party_total": 65570,
           "margin": 21722,
-          "margin_pct": "33.13",
+          "margin_pct": "32.84",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18512,7 +18512,7 @@
           "total_votes": 9019,
           "two_party_total": 8960,
           "margin": 4248,
-          "margin_pct": "47.41",
+          "margin_pct": "47.10",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18544,7 +18544,7 @@
           "total_votes": 85503,
           "two_party_total": 84814,
           "margin": 42292,
-          "margin_pct": "49.86",
+          "margin_pct": "49.46",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18576,7 +18576,7 @@
           "total_votes": 96508,
           "two_party_total": 95701,
           "margin": 10819,
-          "margin_pct": "11.31",
+          "margin_pct": "11.21",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -18608,7 +18608,7 @@
           "total_votes": 7710,
           "two_party_total": 7655,
           "margin": 2369,
-          "margin_pct": "30.95",
+          "margin_pct": "30.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18640,7 +18640,7 @@
           "total_votes": 296524,
           "two_party_total": 294280,
           "margin": 66920,
-          "margin_pct": "22.74",
+          "margin_pct": "22.57",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -18672,7 +18672,7 @@
           "total_votes": 197194,
           "two_party_total": 196143,
           "margin": 105757,
-          "margin_pct": "53.92",
+          "margin_pct": "53.63",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -18704,7 +18704,7 @@
           "total_votes": 16642,
           "two_party_total": 16544,
           "margin": 8138,
-          "margin_pct": "49.19",
+          "margin_pct": "48.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18736,7 +18736,7 @@
           "total_votes": 6608,
           "two_party_total": 6568,
           "margin": 2464,
-          "margin_pct": "37.52",
+          "margin_pct": "37.29",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18768,7 +18768,7 @@
           "total_votes": 25299,
           "two_party_total": 25036,
           "margin": 6936,
-          "margin_pct": "27.70",
+          "margin_pct": "27.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -18800,7 +18800,7 @@
           "total_votes": 14305,
           "two_party_total": 14229,
           "margin": 5775,
-          "margin_pct": "40.59",
+          "margin_pct": "40.37",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -18832,7 +18832,7 @@
           "total_votes": 38345,
           "two_party_total": 38037,
           "margin": 14587,
-          "margin_pct": "38.35",
+          "margin_pct": "38.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18864,7 +18864,7 @@
           "total_votes": 24995,
           "two_party_total": 24832,
           "margin": 7276,
-          "margin_pct": "29.30",
+          "margin_pct": "29.11",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -18896,7 +18896,7 @@
           "total_votes": 18317,
           "two_party_total": 18197,
           "margin": 5587,
-          "margin_pct": "30.70",
+          "margin_pct": "30.50",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18932,7 +18932,7 @@
           "total_votes": 25245,
           "two_party_total": 24546,
           "margin": 8656,
-          "margin_pct": "35.26",
+          "margin_pct": "34.29",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -18969,7 +18969,7 @@
           "total_votes": 202602,
           "two_party_total": 196988,
           "margin": 9118,
-          "margin_pct": "4.63",
+          "margin_pct": "4.50",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -19006,7 +19006,7 @@
           "total_votes": 300807,
           "two_party_total": 292641,
           "margin": 32951,
-          "margin_pct": "11.26",
+          "margin_pct": "10.95",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -19043,7 +19043,7 @@
           "total_votes": 186695,
           "two_party_total": 183115,
           "margin": 137415,
-          "margin_pct": "75.04",
+          "margin_pct": "73.60",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -19080,7 +19080,7 @@
           "total_votes": 35316,
           "two_party_total": 34464,
           "margin": 3778,
-          "margin_pct": "10.96",
+          "margin_pct": "10.70",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -19117,7 +19117,7 @@
           "total_votes": 10211,
           "two_party_total": 9970,
           "margin": 2690,
-          "margin_pct": "26.98",
+          "margin_pct": "26.34",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -19154,7 +19154,7 @@
           "total_votes": 72313,
           "two_party_total": 69876,
           "margin": 25692,
-          "margin_pct": "36.77",
+          "margin_pct": "35.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -19191,7 +19191,7 @@
           "total_votes": 34308,
           "two_party_total": 33333,
           "margin": 7247,
-          "margin_pct": "21.74",
+          "margin_pct": "21.12",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -19228,7 +19228,7 @@
           "total_votes": 58471,
           "two_party_total": 57391,
           "margin": 15269,
-          "margin_pct": "26.61",
+          "margin_pct": "26.11",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -19265,7 +19265,7 @@
           "total_votes": 11821,
           "two_party_total": 11650,
           "margin": 1134,
-          "margin_pct": "9.73",
+          "margin_pct": "9.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -19302,7 +19302,7 @@
           "total_votes": 95821,
           "two_party_total": 93121,
           "margin": 6733,
-          "margin_pct": "7.23",
+          "margin_pct": "7.03",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -19339,7 +19339,7 @@
           "total_votes": 10611,
           "two_party_total": 10367,
           "margin": 5781,
-          "margin_pct": "55.76",
+          "margin_pct": "54.48",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -19376,7 +19376,7 @@
           "total_votes": 102632,
           "two_party_total": 99812,
           "margin": 22452,
-          "margin_pct": "22.49",
+          "margin_pct": "21.88",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -19413,7 +19413,7 @@
           "total_votes": 111464,
           "two_party_total": 108288,
           "margin": 17762,
-          "margin_pct": "16.40",
+          "margin_pct": "15.94",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -19450,7 +19450,7 @@
           "total_votes": 6796,
           "two_party_total": 6634,
           "margin": 488,
-          "margin_pct": "7.36",
+          "margin_pct": "7.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -19487,7 +19487,7 @@
           "total_votes": 328089,
           "two_party_total": 320970,
           "margin": 127830,
-          "margin_pct": "39.83",
+          "margin_pct": "38.96",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -19524,7 +19524,7 @@
           "total_votes": 283482,
           "two_party_total": 280199,
           "margin": 221315,
-          "margin_pct": "78.98",
+          "margin_pct": "78.07",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -19561,7 +19561,7 @@
           "total_votes": 19242,
           "two_party_total": 18818,
           "margin": 6196,
-          "margin_pct": "32.93",
+          "margin_pct": "32.20",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -19598,7 +19598,7 @@
           "total_votes": 7634,
           "two_party_total": 7549,
           "margin": 443,
-          "margin_pct": "5.87",
+          "margin_pct": "5.80",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -19635,7 +19635,7 @@
           "total_votes": 37204,
           "two_party_total": 36131,
           "margin": 6383,
-          "margin_pct": "17.67",
+          "margin_pct": "17.16",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -19672,7 +19672,7 @@
           "total_votes": 12796,
           "two_party_total": 12551,
           "margin": 2101,
-          "margin_pct": "16.74",
+          "margin_pct": "16.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -19709,7 +19709,7 @@
           "total_votes": 51602,
           "two_party_total": 50197,
           "margin": 10419,
-          "margin_pct": "20.76",
+          "margin_pct": "20.19",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -19746,7 +19746,7 @@
           "total_votes": 32000,
           "two_party_total": 31311,
           "margin": 3027,
-          "margin_pct": "9.67",
+          "margin_pct": "9.46",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -19783,7 +19783,7 @@
           "total_votes": 21766,
           "two_party_total": 21385,
           "margin": 4063,
-          "margin_pct": "19.00",
+          "margin_pct": "18.67",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -19822,7 +19822,7 @@
           "total_votes": 24041,
           "two_party_total": 20230,
           "margin": 4960,
-          "margin_pct": "24.52",
+          "margin_pct": "20.63",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -19855,7 +19855,7 @@
           "total_votes": 197846,
           "two_party_total": 153058,
           "margin": 4114,
-          "margin_pct": "2.69",
+          "margin_pct": "2.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -19888,7 +19888,7 @@
           "total_votes": 294775,
           "two_party_total": 223087,
           "margin": 66473,
-          "margin_pct": "29.80",
+          "margin_pct": "22.55",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -19921,7 +19921,7 @@
           "total_votes": 179641,
           "two_party_total": 149093,
           "margin": 122301,
-          "margin_pct": "82.03",
+          "margin_pct": "68.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -19954,7 +19954,7 @@
           "total_votes": 34055,
           "two_party_total": 26128,
           "margin": 900,
-          "margin_pct": "3.44",
+          "margin_pct": "2.64",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -19987,7 +19987,7 @@
           "total_votes": 9964,
           "two_party_total": 7749,
           "margin": 1381,
-          "margin_pct": "17.82",
+          "margin_pct": "13.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -20020,14 +20020,14 @@
           "total_votes": 70640,
           "two_party_total": 52191,
           "margin": 17055,
-          "margin_pct": "32.68",
+          "margin_pct": "24.14",
           "winner": "REP",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Republican",
-            "code": "R_DOMINANT",
-            "color": "#a50f15",
-            "label": "Dominant Republican (30.00-39.99%)"
+            "code": "R_STRONGHOLD",
+            "color": "#cb181d",
+            "label": "Stronghold Republican (20.00-29.99%)"
           },
           "all_parties": {
             "DEM": 17568,
@@ -20053,14 +20053,14 @@
           "total_votes": 33188,
           "two_party_total": 26473,
           "margin": 3181,
-          "margin_pct": "12.02",
+          "margin_pct": "9.58",
           "winner": "REP",
           "competitiveness": {
-            "category": "Safe",
+            "category": "Likely",
             "party": "Republican",
-            "code": "R_SAFE",
-            "color": "#ef3b2c",
-            "label": "Safe Republican (10.00-19.99%)"
+            "code": "R_LIKELY",
+            "color": "#fb6a4a",
+            "label": "Likely Republican (5.50-9.99%)"
           },
           "all_parties": {
             "DEM": 11646,
@@ -20086,7 +20086,7 @@
           "total_votes": 56796,
           "two_party_total": 44956,
           "margin": 17610,
-          "margin_pct": "39.17",
+          "margin_pct": "31.01",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -20119,7 +20119,7 @@
           "total_votes": 11310,
           "two_party_total": 9057,
           "margin": 339,
-          "margin_pct": "3.74",
+          "margin_pct": "3.00",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -20152,7 +20152,7 @@
           "total_votes": 92823,
           "two_party_total": 75422,
           "margin": 6518,
-          "margin_pct": "8.64",
+          "margin_pct": "7.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -20185,7 +20185,7 @@
           "total_votes": 9965,
           "two_party_total": 9402,
           "margin": 4184,
-          "margin_pct": "44.50",
+          "margin_pct": "41.99",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -20218,14 +20218,14 @@
           "total_votes": 100616,
           "two_party_total": 70189,
           "margin": 4161,
-          "margin_pct": "5.93",
+          "margin_pct": "4.14",
           "winner": "REP",
           "competitiveness": {
-            "category": "Likely",
+            "category": "Lean",
             "party": "Republican",
-            "code": "R_LIKELY",
-            "color": "#fb6a4a",
-            "label": "Likely Republican (5.50-9.99%)"
+            "code": "R_LEAN",
+            "color": "#fcae91",
+            "label": "Lean Republican (1.00-5.49%)"
           },
           "all_parties": {
             "DEM": 33014,
@@ -20251,14 +20251,14 @@
           "total_votes": 108816,
           "two_party_total": 87060,
           "margin": 20864,
-          "margin_pct": "23.97",
+          "margin_pct": "19.17",
           "winner": "DEM",
           "competitiveness": {
-            "category": "Stronghold",
+            "category": "Safe",
             "party": "Democratic",
-            "code": "D_STRONGHOLD",
-            "color": "#3182bd",
-            "label": "Stronghold Democratic (20.00-29.99%)"
+            "code": "D_SAFE",
+            "color": "#6baed6",
+            "label": "Safe Democratic (10.00-19.99%)"
           },
           "all_parties": {
             "DEM": 53962,
@@ -20284,7 +20284,7 @@
           "total_votes": 6645,
           "two_party_total": 5244,
           "margin": 154,
-          "margin_pct": "2.94",
+          "margin_pct": "2.32",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -20317,7 +20317,7 @@
           "total_votes": 318767,
           "two_party_total": 273405,
           "margin": 128017,
-          "margin_pct": "46.82",
+          "margin_pct": "40.16",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -20350,7 +20350,7 @@
           "total_votes": 274509,
           "two_party_total": 238647,
           "margin": 198237,
-          "margin_pct": "83.07",
+          "margin_pct": "72.22",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -20383,7 +20383,7 @@
           "total_votes": 18949,
           "two_party_total": 15119,
           "margin": 4481,
-          "margin_pct": "29.64",
+          "margin_pct": "23.65",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -20416,7 +20416,7 @@
           "total_votes": 7344,
           "two_party_total": 5890,
           "margin": 288,
-          "margin_pct": "4.89",
+          "margin_pct": "3.92",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -20449,7 +20449,7 @@
           "total_votes": 35627,
           "two_party_total": 28125,
           "margin": 1999,
-          "margin_pct": "7.11",
+          "margin_pct": "5.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -20482,14 +20482,14 @@
           "total_votes": 12524,
           "two_party_total": 10321,
           "margin": 1035,
-          "margin_pct": "10.03",
+          "margin_pct": "8.26",
           "winner": "REP",
           "competitiveness": {
-            "category": "Safe",
+            "category": "Likely",
             "party": "Republican",
-            "code": "R_SAFE",
-            "color": "#ef3b2c",
-            "label": "Safe Republican (10.00-19.99%)"
+            "code": "R_LIKELY",
+            "color": "#fb6a4a",
+            "label": "Likely Republican (5.50-9.99%)"
           },
           "all_parties": {
             "DEM": 4643,
@@ -20515,14 +20515,14 @@
           "total_votes": 49736,
           "two_party_total": 38563,
           "margin": 8099,
-          "margin_pct": "21.00",
+          "margin_pct": "16.28",
           "winner": "REP",
           "competitiveness": {
-            "category": "Stronghold",
+            "category": "Safe",
             "party": "Republican",
-            "code": "R_STRONGHOLD",
-            "color": "#cb181d",
-            "label": "Stronghold Republican (20.00-29.99%)"
+            "code": "R_SAFE",
+            "color": "#ef3b2c",
+            "label": "Safe Republican (10.00-19.99%)"
           },
           "all_parties": {
             "DEM": 15232,
@@ -20548,14 +20548,14 @@
           "total_votes": 30988,
           "two_party_total": 23641,
           "margin": 237,
-          "margin_pct": "1.00",
+          "margin_pct": "0.76",
           "winner": "DEM",
           "competitiveness": {
-            "category": "Lean",
+            "category": "Tilt",
             "party": "Democratic",
-            "code": "D_LEAN",
-            "color": "#c6dbef",
-            "label": "Lean Democratic (1.00-5.49%)"
+            "code": "D_TILT",
+            "color": "#e1f5fe",
+            "label": "Tilt Democratic (0.50-0.99%)"
           },
           "all_parties": {
             "DEM": 11939,
@@ -20581,7 +20581,7 @@
           "total_votes": 21192,
           "two_party_total": 16211,
           "margin": 1371,
-          "margin_pct": "8.46",
+          "margin_pct": "6.47",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -20618,7 +20618,7 @@
           "total_votes": 16659,
           "two_party_total": 15964,
           "margin": 5974,
-          "margin_pct": "37.42",
+          "margin_pct": "35.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -20650,7 +20650,7 @@
           "total_votes": 128458,
           "two_party_total": 122887,
           "margin": 19291,
-          "margin_pct": "15.70",
+          "margin_pct": "15.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -20682,7 +20682,7 @@
           "total_votes": 195698,
           "two_party_total": 187399,
           "margin": 11921,
-          "margin_pct": "6.36",
+          "margin_pct": "6.09",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -20714,7 +20714,7 @@
           "total_votes": 102937,
           "two_party_total": 98846,
           "margin": 69104,
-          "margin_pct": "69.91",
+          "margin_pct": "67.13",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -20746,7 +20746,7 @@
           "total_votes": 25569,
           "two_party_total": 24446,
           "margin": 6088,
-          "margin_pct": "24.90",
+          "margin_pct": "23.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -20778,7 +20778,7 @@
           "total_votes": 6939,
           "two_party_total": 6644,
           "margin": 2456,
-          "margin_pct": "36.97",
+          "margin_pct": "35.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -20810,7 +20810,7 @@
           "total_votes": 51943,
           "two_party_total": 49429,
           "margin": 21275,
-          "margin_pct": "43.04",
+          "margin_pct": "40.96",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -20842,7 +20842,7 @@
           "total_votes": 21035,
           "two_party_total": 19984,
           "margin": 6992,
-          "margin_pct": "34.99",
+          "margin_pct": "33.24",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -20874,7 +20874,7 @@
           "total_votes": 37472,
           "two_party_total": 36408,
           "margin": 6328,
-          "margin_pct": "17.38",
+          "margin_pct": "16.89",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -20906,7 +20906,7 @@
           "total_votes": 7807,
           "two_party_total": 7578,
           "margin": 1384,
-          "margin_pct": "18.26",
+          "margin_pct": "17.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -20938,7 +20938,7 @@
           "total_votes": 63640,
           "two_party_total": 60744,
           "margin": 10924,
-          "margin_pct": "17.98",
+          "margin_pct": "17.17",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -20970,7 +20970,7 @@
           "total_votes": 6978,
           "two_party_total": 6636,
           "margin": 3768,
-          "margin_pct": "56.78",
+          "margin_pct": "54.00",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -21002,7 +21002,7 @@
           "total_votes": 68354,
           "two_party_total": 65139,
           "margin": 19089,
-          "margin_pct": "29.31",
+          "margin_pct": "27.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -21034,7 +21034,7 @@
           "total_votes": 77626,
           "two_party_total": 74382,
           "margin": 7228,
-          "margin_pct": "9.72",
+          "margin_pct": "9.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -21066,7 +21066,7 @@
           "total_votes": 5082,
           "two_party_total": 4904,
           "margin": 332,
-          "margin_pct": "6.77",
+          "margin_pct": "6.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -21098,7 +21098,7 @@
           "total_votes": 206772,
           "two_party_total": 201191,
           "margin": 73213,
-          "margin_pct": "36.39",
+          "margin_pct": "35.41",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -21130,7 +21130,7 @@
           "total_votes": 158185,
           "two_party_total": 155080,
           "margin": 115588,
-          "margin_pct": "74.53",
+          "margin_pct": "73.07",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -21162,7 +21162,7 @@
           "total_votes": 12972,
           "two_party_total": 12447,
           "margin": 4545,
-          "margin_pct": "36.51",
+          "margin_pct": "35.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -21194,7 +21194,7 @@
           "total_votes": 4699,
           "two_party_total": 4530,
           "margin": 992,
-          "margin_pct": "21.90",
+          "margin_pct": "21.11",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -21226,14 +21226,14 @@
           "total_votes": 25472,
           "two_party_total": 24265,
           "margin": 7617,
-          "margin_pct": "31.39",
+          "margin_pct": "29.90",
           "winner": "REP",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Republican",
-            "code": "R_DOMINANT",
-            "color": "#a50f15",
-            "label": "Dominant Republican (30.00-39.99%)"
+            "code": "R_STRONGHOLD",
+            "color": "#cb181d",
+            "label": "Stronghold Republican (20.00-29.99%)"
           },
           "all_parties": {
             "DEM": 8324,
@@ -21258,7 +21258,7 @@
           "total_votes": 9136,
           "two_party_total": 8798,
           "margin": 1714,
-          "margin_pct": "19.48",
+          "margin_pct": "18.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -21290,7 +21290,7 @@
           "total_votes": 31791,
           "two_party_total": 30444,
           "margin": 10594,
-          "margin_pct": "34.80",
+          "margin_pct": "33.32",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -21322,7 +21322,7 @@
           "total_votes": 19008,
           "two_party_total": 18281,
           "margin": 3875,
-          "margin_pct": "21.20",
+          "margin_pct": "20.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -21354,7 +21354,7 @@
           "total_votes": 14091,
           "two_party_total": 13564,
           "margin": 3690,
-          "margin_pct": "27.20",
+          "margin_pct": "26.19",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -21452,7 +21452,7 @@
           "total_votes": 197775,
           "two_party_total": 197477,
           "margin": 47271,
-          "margin_pct": "23.94",
+          "margin_pct": "23.90",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -21484,7 +21484,7 @@
           "total_votes": 103456,
           "two_party_total": 103136,
           "margin": 73156,
-          "margin_pct": "70.93",
+          "margin_pct": "70.71",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -21516,7 +21516,7 @@
           "total_votes": 26040,
           "two_party_total": 26013,
           "margin": 4637,
-          "margin_pct": "17.83",
+          "margin_pct": "17.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -21548,7 +21548,7 @@
           "total_votes": 7183,
           "two_party_total": 7178,
           "margin": 462,
-          "margin_pct": "6.44",
+          "margin_pct": "6.43",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -21580,7 +21580,7 @@
           "total_votes": 52931,
           "two_party_total": 52862,
           "margin": 9210,
-          "margin_pct": "17.42",
+          "margin_pct": "17.40",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -21612,7 +21612,7 @@
           "total_votes": 21381,
           "two_party_total": 21358,
           "margin": 4494,
-          "margin_pct": "21.04",
+          "margin_pct": "21.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -21644,7 +21644,7 @@
           "total_votes": 37875,
           "two_party_total": 37818,
           "margin": 7488,
-          "margin_pct": "19.80",
+          "margin_pct": "19.77",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -21676,7 +21676,7 @@
           "total_votes": 8170,
           "two_party_total": 8166,
           "margin": 1276,
-          "margin_pct": "15.63",
+          "margin_pct": "15.62",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -21708,7 +21708,7 @@
           "total_votes": 64480,
           "two_party_total": 64379,
           "margin": 4997,
-          "margin_pct": "7.76",
+          "margin_pct": "7.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -21740,7 +21740,7 @@
           "total_votes": 7154,
           "two_party_total": 7146,
           "margin": 2912,
-          "margin_pct": "40.75",
+          "margin_pct": "40.70",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -21804,7 +21804,7 @@
           "total_votes": 78155,
           "two_party_total": 77995,
           "margin": 14579,
-          "margin_pct": "18.69",
+          "margin_pct": "18.65",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -21836,7 +21836,7 @@
           "total_votes": 5303,
           "two_party_total": 5299,
           "margin": 875,
-          "margin_pct": "16.51",
+          "margin_pct": "16.50",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -21868,7 +21868,7 @@
           "total_votes": 206171,
           "two_party_total": 205848,
           "margin": 73730,
-          "margin_pct": "35.82",
+          "margin_pct": "35.76",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -21900,7 +21900,7 @@
           "total_votes": 158209,
           "two_party_total": 157991,
           "margin": 115919,
-          "margin_pct": "73.37",
+          "margin_pct": "73.27",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -21932,7 +21932,7 @@
           "total_votes": 13378,
           "two_party_total": 13365,
           "margin": 1245,
-          "margin_pct": "9.32",
+          "margin_pct": "9.31",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -21996,7 +21996,7 @@
           "total_votes": 25950,
           "two_party_total": 25918,
           "margin": 6588,
-          "margin_pct": "25.42",
+          "margin_pct": "25.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -22028,7 +22028,7 @@
           "total_votes": 9475,
           "two_party_total": 9467,
           "margin": 1215,
-          "margin_pct": "12.83",
+          "margin_pct": "12.82",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -22060,7 +22060,7 @@
           "total_votes": 32456,
           "two_party_total": 32427,
           "margin": 7677,
-          "margin_pct": "23.67",
+          "margin_pct": "23.65",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -22092,7 +22092,7 @@
           "total_votes": 19386,
           "two_party_total": 19366,
           "margin": 1898,
-          "margin_pct": "9.80",
+          "margin_pct": "9.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -22124,7 +22124,7 @@
           "total_votes": 14377,
           "two_party_total": 14363,
           "margin": 1755,
-          "margin_pct": "12.22",
+          "margin_pct": "12.21",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -22158,7 +22158,7 @@
           "total_votes": 18145,
           "two_party_total": 17767,
           "margin": 9925,
-          "margin_pct": "55.86",
+          "margin_pct": "54.70",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22191,7 +22191,7 @@
           "total_votes": 132641,
           "two_party_total": 130271,
           "margin": 50373,
-          "margin_pct": "38.67",
+          "margin_pct": "37.98",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -22224,7 +22224,7 @@
           "total_votes": 201786,
           "two_party_total": 197704,
           "margin": 49740,
-          "margin_pct": "25.16",
+          "margin_pct": "24.65",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -22257,7 +22257,7 @@
           "total_votes": 107036,
           "two_party_total": 104308,
           "margin": 53464,
-          "margin_pct": "51.26",
+          "margin_pct": "49.95",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -22290,7 +22290,7 @@
           "total_votes": 26863,
           "two_party_total": 26370,
           "margin": 11392,
-          "margin_pct": "43.20",
+          "margin_pct": "42.41",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22323,7 +22323,7 @@
           "total_votes": 7343,
           "two_party_total": 7237,
           "margin": 4315,
-          "margin_pct": "59.62",
+          "margin_pct": "58.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22356,7 +22356,7 @@
           "total_votes": 54424,
           "two_party_total": 53487,
           "margin": 36801,
-          "margin_pct": "68.80",
+          "margin_pct": "67.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22389,7 +22389,7 @@
           "total_votes": 21919,
           "two_party_total": 21414,
           "margin": 12844,
-          "margin_pct": "59.98",
+          "margin_pct": "58.60",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22422,7 +22422,7 @@
           "total_votes": 38778,
           "two_party_total": 38279,
           "margin": 979,
-          "margin_pct": "2.56",
+          "margin_pct": "2.52",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -22455,7 +22455,7 @@
           "total_votes": 8368,
           "two_party_total": 8265,
           "margin": 3617,
-          "margin_pct": "43.76",
+          "margin_pct": "43.22",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22488,7 +22488,7 @@
           "total_votes": 66328,
           "two_party_total": 64931,
           "margin": 21479,
-          "margin_pct": "33.08",
+          "margin_pct": "32.38",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -22521,7 +22521,7 @@
           "total_votes": 7409,
           "two_party_total": 7221,
           "margin": 4755,
-          "margin_pct": "65.85",
+          "margin_pct": "64.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22554,7 +22554,7 @@
           "total_votes": 70623,
           "two_party_total": 69345,
           "margin": 40363,
-          "margin_pct": "58.21",
+          "margin_pct": "57.15",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22587,7 +22587,7 @@
           "total_votes": 80204,
           "two_party_total": 78753,
           "margin": 7011,
-          "margin_pct": "8.90",
+          "margin_pct": "8.74",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -22620,7 +22620,7 @@
           "total_votes": 5480,
           "two_party_total": 5387,
           "margin": 2035,
-          "margin_pct": "37.78",
+          "margin_pct": "37.14",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -22653,7 +22653,7 @@
           "total_votes": 210515,
           "two_party_total": 207475,
           "margin": 46519,
-          "margin_pct": "22.42",
+          "margin_pct": "22.10",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -22686,7 +22686,7 @@
           "total_votes": 161695,
           "two_party_total": 160147,
           "margin": 109099,
-          "margin_pct": "68.12",
+          "margin_pct": "67.47",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -22719,7 +22719,7 @@
           "total_votes": 13699,
           "two_party_total": 13539,
           "margin": 8607,
-          "margin_pct": "63.57",
+          "margin_pct": "62.83",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22752,7 +22752,7 @@
           "total_votes": 5045,
           "two_party_total": 4984,
           "margin": 1912,
-          "margin_pct": "38.36",
+          "margin_pct": "37.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -22785,7 +22785,7 @@
           "total_votes": 26807,
           "two_party_total": 26241,
           "margin": 13365,
-          "margin_pct": "50.93",
+          "margin_pct": "49.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22818,7 +22818,7 @@
           "total_votes": 9632,
           "two_party_total": 9502,
           "margin": 4084,
-          "margin_pct": "42.98",
+          "margin_pct": "42.40",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22851,7 +22851,7 @@
           "total_votes": 33744,
           "two_party_total": 33134,
           "margin": 17006,
-          "margin_pct": "51.32",
+          "margin_pct": "50.40",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22884,7 +22884,7 @@
           "total_votes": 19713,
           "two_party_total": 19387,
           "margin": 6583,
-          "margin_pct": "33.96",
+          "margin_pct": "33.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -22917,7 +22917,7 @@
           "total_votes": 14640,
           "two_party_total": 14363,
           "margin": 6051,
-          "margin_pct": "42.13",
+          "margin_pct": "41.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -22954,7 +22954,7 @@
           "total_votes": 137239,
           "two_party_total": 117142,
           "margin": 117142,
-          "margin_pct": "100.00",
+          "margin_pct": "85.36",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -22987,7 +22987,7 @@
           "total_votes": 24313,
           "two_party_total": 23105,
           "margin": 12339,
-          "margin_pct": "53.40",
+          "margin_pct": "50.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -23022,7 +23022,7 @@
           "total_votes": 171373,
           "two_party_total": 157840,
           "margin": 13292,
-          "margin_pct": "8.42",
+          "margin_pct": "7.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -23057,7 +23057,7 @@
           "total_votes": 233389,
           "two_party_total": 217682,
           "margin": 14610,
-          "margin_pct": "6.71",
+          "margin_pct": "6.26",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -23092,7 +23092,7 @@
           "total_votes": 147828,
           "two_party_total": 139674,
           "margin": 102436,
-          "margin_pct": "73.34",
+          "margin_pct": "69.29",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -23127,7 +23127,7 @@
           "total_votes": 31572,
           "two_party_total": 29438,
           "margin": 7510,
-          "margin_pct": "25.51",
+          "margin_pct": "23.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -23162,7 +23162,7 @@
           "total_votes": 9725,
           "two_party_total": 9194,
           "margin": 4146,
-          "margin_pct": "45.09",
+          "margin_pct": "42.63",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -23197,7 +23197,7 @@
           "total_votes": 66873,
           "two_party_total": 61375,
           "margin": 26965,
-          "margin_pct": "43.93",
+          "margin_pct": "40.32",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -23232,14 +23232,14 @@
           "total_votes": 31891,
           "two_party_total": 29828,
           "margin": 12538,
-          "margin_pct": "42.03",
+          "margin_pct": "39.32",
           "winner": "REP",
           "competitiveness": {
-            "category": "Annihilation",
+            "category": "Dominant",
             "party": "Republican",
-            "code": "R_ANNIHILATION",
-            "color": "#67000d",
-            "label": "Annihilation Republican (>=40.00%)"
+            "code": "R_DOMINANT",
+            "color": "#a50f15",
+            "label": "Dominant Republican (30.00-39.99%)"
           },
           "all_parties": {
             "REP": 21183,
@@ -23267,7 +23267,7 @@
           "total_votes": 47184,
           "two_party_total": 44909,
           "margin": 9873,
-          "margin_pct": "21.98",
+          "margin_pct": "20.92",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -23302,7 +23302,7 @@
           "total_votes": 10402,
           "two_party_total": 10010,
           "margin": 2320,
-          "margin_pct": "23.18",
+          "margin_pct": "22.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -23337,7 +23337,7 @@
           "total_votes": 86923,
           "two_party_total": 79822,
           "margin": 10876,
-          "margin_pct": "13.63",
+          "margin_pct": "12.51",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -23372,7 +23372,7 @@
           "total_votes": 9609,
           "two_party_total": 9167,
           "margin": 6405,
-          "margin_pct": "69.87",
+          "margin_pct": "66.66",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -23407,7 +23407,7 @@
           "total_votes": 81528,
           "two_party_total": 75655,
           "margin": 24943,
-          "margin_pct": "32.97",
+          "margin_pct": "30.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -23442,7 +23442,7 @@
           "total_votes": 90418,
           "two_party_total": 82456,
           "margin": 19666,
-          "margin_pct": "23.85",
+          "margin_pct": "21.75",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -23477,14 +23477,14 @@
           "total_votes": 5940,
           "two_party_total": 5578,
           "margin": 1170,
-          "margin_pct": "20.98",
+          "margin_pct": "19.70",
           "winner": "REP",
           "competitiveness": {
-            "category": "Stronghold",
+            "category": "Safe",
             "party": "Republican",
-            "code": "R_STRONGHOLD",
-            "color": "#cb181d",
-            "label": "Stronghold Republican (20.00-29.99%)"
+            "code": "R_SAFE",
+            "color": "#ef3b2c",
+            "label": "Safe Republican (10.00-19.99%)"
           },
           "all_parties": {
             "REP": 3374,
@@ -23512,7 +23512,7 @@
           "total_votes": 255961,
           "two_party_total": 237805,
           "margin": 117555,
-          "margin_pct": "49.43",
+          "margin_pct": "45.93",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -23547,7 +23547,7 @@
           "total_votes": 197052,
           "two_party_total": 188636,
           "margin": 148794,
-          "margin_pct": "78.88",
+          "margin_pct": "75.51",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -23582,7 +23582,7 @@
           "total_votes": 14254,
           "two_party_total": 13361,
           "margin": 6147,
-          "margin_pct": "46.01",
+          "margin_pct": "43.12",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -23617,7 +23617,7 @@
           "total_votes": 6283,
           "two_party_total": 6046,
           "margin": 1484,
-          "margin_pct": "24.55",
+          "margin_pct": "23.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -23652,14 +23652,14 @@
           "total_votes": 32862,
           "two_party_total": 30391,
           "margin": 9269,
-          "margin_pct": "30.50",
+          "margin_pct": "28.21",
           "winner": "REP",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Republican",
-            "code": "R_DOMINANT",
-            "color": "#a50f15",
-            "label": "Dominant Republican (30.00-39.99%)"
+            "code": "R_STRONGHOLD",
+            "color": "#cb181d",
+            "label": "Stronghold Republican (20.00-29.99%)"
           },
           "all_parties": {
             "REP": 19830,
@@ -23687,7 +23687,7 @@
           "total_votes": 9825,
           "two_party_total": 9148,
           "margin": 2318,
-          "margin_pct": "25.34",
+          "margin_pct": "23.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -23722,7 +23722,7 @@
           "total_votes": 49817,
           "two_party_total": 46720,
           "margin": 18052,
-          "margin_pct": "38.64",
+          "margin_pct": "36.24",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -23757,7 +23757,7 @@
           "total_votes": 28098,
           "two_party_total": 26476,
           "margin": 4944,
-          "margin_pct": "18.67",
+          "margin_pct": "17.60",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -23792,7 +23792,7 @@
           "total_votes": 18531,
           "two_party_total": 17617,
           "margin": 5743,
-          "margin_pct": "32.60",
+          "margin_pct": "30.99",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -23829,7 +23829,7 @@
           "total_votes": 23098,
           "two_party_total": 22079,
           "margin": 7837,
-          "margin_pct": "35.50",
+          "margin_pct": "33.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -23862,7 +23862,7 @@
           "total_votes": 168486,
           "two_party_total": 162578,
           "margin": 17032,
-          "margin_pct": "10.48",
+          "margin_pct": "10.11",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -23895,7 +23895,7 @@
           "total_votes": 230169,
           "two_party_total": 221913,
           "margin": 9671,
-          "margin_pct": "4.36",
+          "margin_pct": "4.20",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -23928,7 +23928,7 @@
           "total_votes": 145146,
           "two_party_total": 137507,
           "margin": 93963,
-          "margin_pct": "68.33",
+          "margin_pct": "64.74",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -23961,7 +23961,7 @@
           "total_votes": 30638,
           "two_party_total": 29251,
           "margin": 6273,
-          "margin_pct": "21.45",
+          "margin_pct": "20.47",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -23994,7 +23994,7 @@
           "total_votes": 9555,
           "two_party_total": 9297,
           "margin": 3509,
-          "margin_pct": "37.74",
+          "margin_pct": "36.72",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24027,7 +24027,7 @@
           "total_votes": 65790,
           "two_party_total": 63949,
           "margin": 28051,
-          "margin_pct": "43.86",
+          "margin_pct": "42.64",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -24060,7 +24060,7 @@
           "total_votes": 30918,
           "two_party_total": 29632,
           "margin": 10612,
-          "margin_pct": "35.81",
+          "margin_pct": "34.32",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24093,7 +24093,7 @@
           "total_votes": 46386,
           "two_party_total": 44784,
           "margin": 10132,
-          "margin_pct": "22.62",
+          "margin_pct": "21.84",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -24126,7 +24126,7 @@
           "total_votes": 10149,
           "two_party_total": 9890,
           "margin": 1574,
-          "margin_pct": "15.92",
+          "margin_pct": "15.51",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24159,7 +24159,7 @@
           "total_votes": 84814,
           "two_party_total": 81251,
           "margin": 10489,
-          "margin_pct": "12.91",
+          "margin_pct": "12.37",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24192,7 +24192,7 @@
           "total_votes": 9153,
           "two_party_total": 8846,
           "margin": 5756,
-          "margin_pct": "65.07",
+          "margin_pct": "62.89",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -24225,7 +24225,7 @@
           "total_votes": 80738,
           "two_party_total": 78120,
           "margin": 26490,
-          "margin_pct": "33.91",
+          "margin_pct": "32.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24258,7 +24258,7 @@
           "total_votes": 88874,
           "two_party_total": 85430,
           "margin": 11024,
-          "margin_pct": "12.90",
+          "margin_pct": "12.40",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -24291,7 +24291,7 @@
           "total_votes": 5843,
           "two_party_total": 5705,
           "margin": 1069,
-          "margin_pct": "18.74",
+          "margin_pct": "18.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24324,7 +24324,7 @@
           "total_votes": 252372,
           "two_party_total": 244096,
           "margin": 109572,
-          "margin_pct": "44.89",
+          "margin_pct": "43.42",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -24357,7 +24357,7 @@
           "total_votes": 193005,
           "two_party_total": 185284,
           "margin": 143548,
-          "margin_pct": "77.47",
+          "margin_pct": "74.38",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -24390,7 +24390,7 @@
           "total_votes": 14013,
           "two_party_total": 13620,
           "margin": 5882,
-          "margin_pct": "43.19",
+          "margin_pct": "41.98",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -24423,7 +24423,7 @@
           "total_votes": 6148,
           "two_party_total": 6019,
           "margin": 1295,
-          "margin_pct": "21.52",
+          "margin_pct": "21.06",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -24456,7 +24456,7 @@
           "total_votes": 31847,
           "two_party_total": 30450,
           "margin": 8384,
-          "margin_pct": "27.53",
+          "margin_pct": "26.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -24489,7 +24489,7 @@
           "total_votes": 9707,
           "two_party_total": 9429,
           "margin": 2327,
-          "margin_pct": "24.68",
+          "margin_pct": "23.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -24522,7 +24522,7 @@
           "total_votes": 47711,
           "two_party_total": 45646,
           "margin": 12854,
-          "margin_pct": "28.16",
+          "margin_pct": "26.94",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -24555,7 +24555,7 @@
           "total_votes": 27601,
           "two_party_total": 26625,
           "margin": 4775,
-          "margin_pct": "17.93",
+          "margin_pct": "17.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24588,7 +24588,7 @@
           "total_votes": 18104,
           "two_party_total": 17513,
           "margin": 5197,
-          "margin_pct": "29.68",
+          "margin_pct": "28.71",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -24625,7 +24625,7 @@
           "total_votes": 18504,
           "two_party_total": 18496,
           "margin": 8202,
-          "margin_pct": "44.34",
+          "margin_pct": "44.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -24656,7 +24656,7 @@
           "total_votes": 142196,
           "two_party_total": 142098,
           "margin": 462,
-          "margin_pct": "0.33",
+          "margin_pct": "0.32",
           "winner": "REP",
           "competitiveness": {
             "category": "Tossup",
@@ -24687,7 +24687,7 @@
           "total_votes": 201268,
           "two_party_total": 201084,
           "margin": 29846,
-          "margin_pct": "14.84",
+          "margin_pct": "14.83",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -24718,7 +24718,7 @@
           "total_votes": 120929,
           "two_party_total": 120723,
           "margin": 85609,
-          "margin_pct": "70.91",
+          "margin_pct": "70.79",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -24749,7 +24749,7 @@
           "total_votes": 27629,
           "two_party_total": 27608,
           "margin": 5212,
-          "margin_pct": "18.88",
+          "margin_pct": "18.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24780,7 +24780,7 @@
           "total_votes": 7742,
           "two_party_total": 7738,
           "margin": 2616,
-          "margin_pct": "33.81",
+          "margin_pct": "33.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24811,7 +24811,7 @@
           "total_votes": 53850,
           "two_party_total": 53822,
           "margin": 18774,
-          "margin_pct": "34.88",
+          "margin_pct": "34.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24842,7 +24842,7 @@
           "total_votes": 25405,
           "two_party_total": 25390,
           "margin": 7776,
-          "margin_pct": "30.63",
+          "margin_pct": "30.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -24873,7 +24873,7 @@
           "total_votes": 44118,
           "two_party_total": 44085,
           "margin": 15697,
-          "margin_pct": "35.61",
+          "margin_pct": "35.58",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -24904,7 +24904,7 @@
           "total_votes": 8458,
           "two_party_total": 8454,
           "margin": 1622,
-          "margin_pct": "19.19",
+          "margin_pct": "19.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -24997,7 +24997,7 @@
           "total_votes": 69474,
           "two_party_total": 69400,
           "margin": 16476,
-          "margin_pct": "23.74",
+          "margin_pct": "23.72",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -25028,7 +25028,7 @@
           "total_votes": 86937,
           "two_party_total": 86862,
           "margin": 22900,
-          "margin_pct": "26.36",
+          "margin_pct": "26.34",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -25059,7 +25059,7 @@
           "total_votes": 5084,
           "two_party_total": 5082,
           "margin": 530,
-          "margin_pct": "10.43",
+          "margin_pct": "10.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -25090,7 +25090,7 @@
           "total_votes": 245572,
           "two_party_total": 245373,
           "margin": 123479,
-          "margin_pct": "50.32",
+          "margin_pct": "50.28",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25121,7 +25121,7 @@
           "total_votes": 192120,
           "two_party_total": 191863,
           "margin": 153827,
-          "margin_pct": "80.18",
+          "margin_pct": "80.07",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25183,7 +25183,7 @@
           "total_votes": 4804,
           "two_party_total": 4797,
           "margin": 1089,
-          "margin_pct": "22.70",
+          "margin_pct": "22.67",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -25214,7 +25214,7 @@
           "total_votes": 27663,
           "two_party_total": 27649,
           "margin": 6011,
-          "margin_pct": "21.74",
+          "margin_pct": "21.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -25245,7 +25245,7 @@
           "total_votes": 8418,
           "two_party_total": 8410,
           "margin": 1144,
-          "margin_pct": "13.60",
+          "margin_pct": "13.59",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -25276,7 +25276,7 @@
           "total_votes": 37412,
           "two_party_total": 37383,
           "margin": 10945,
-          "margin_pct": "29.28",
+          "margin_pct": "29.26",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -25307,7 +25307,7 @@
           "total_votes": 21203,
           "two_party_total": 21185,
           "margin": 2841,
-          "margin_pct": "13.41",
+          "margin_pct": "13.40",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -25338,7 +25338,7 @@
           "total_votes": 15246,
           "two_party_total": 15231,
           "margin": 3925,
-          "margin_pct": "25.77",
+          "margin_pct": "25.74",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -25371,7 +25371,7 @@
           "total_votes": 18033,
           "two_party_total": 18021,
           "margin": 821,
-          "margin_pct": "4.56",
+          "margin_pct": "4.55",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -25402,7 +25402,7 @@
           "total_votes": 140614,
           "two_party_total": 140439,
           "margin": 29127,
-          "margin_pct": "20.74",
+          "margin_pct": "20.71",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -25433,7 +25433,7 @@
           "total_votes": 198064,
           "two_party_total": 197833,
           "margin": 76527,
-          "margin_pct": "38.68",
+          "margin_pct": "38.64",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -25464,7 +25464,7 @@
           "total_votes": 119231,
           "two_party_total": 118918,
           "margin": 90770,
-          "margin_pct": "76.33",
+          "margin_pct": "76.13",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25526,7 +25526,7 @@
           "total_votes": 7672,
           "two_party_total": 7669,
           "margin": 673,
-          "margin_pct": "8.78",
+          "margin_pct": "8.77",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -25588,7 +25588,7 @@
           "total_votes": 25015,
           "two_party_total": 24993,
           "margin": 2115,
-          "margin_pct": "8.46",
+          "margin_pct": "8.45",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -25619,7 +25619,7 @@
           "total_votes": 43326,
           "two_party_total": 43284,
           "margin": 19706,
-          "margin_pct": "45.53",
+          "margin_pct": "45.48",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25650,7 +25650,7 @@
           "total_votes": 8456,
           "two_party_total": 8450,
           "margin": 2690,
-          "margin_pct": "31.83",
+          "margin_pct": "31.81",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -25681,7 +25681,7 @@
           "total_votes": 74320,
           "two_party_total": 74251,
           "margin": 7969,
-          "margin_pct": "10.73",
+          "margin_pct": "10.72",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -25712,7 +25712,7 @@
           "total_votes": 7169,
           "two_party_total": 7164,
           "margin": 2494,
-          "margin_pct": "34.81",
+          "margin_pct": "34.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -25743,7 +25743,7 @@
           "total_votes": 68343,
           "two_party_total": 68253,
           "margin": 3979,
-          "margin_pct": "5.83",
+          "margin_pct": "5.82",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -25774,7 +25774,7 @@
           "total_votes": 85554,
           "two_party_total": 85451,
           "margin": 33001,
-          "margin_pct": "38.62",
+          "margin_pct": "38.57",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -25805,7 +25805,7 @@
           "total_votes": 5070,
           "two_party_total": 5066,
           "margin": 1470,
-          "margin_pct": "29.02",
+          "margin_pct": "28.99",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -25836,7 +25836,7 @@
           "total_votes": 244871,
           "two_party_total": 244556,
           "margin": 129990,
-          "margin_pct": "53.15",
+          "margin_pct": "53.09",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25867,7 +25867,7 @@
           "total_votes": 190747,
           "two_party_total": 190484,
           "margin": 152604,
-          "margin_pct": "80.11",
+          "margin_pct": "80.00",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -25929,7 +25929,7 @@
           "total_votes": 4725,
           "two_party_total": 4720,
           "margin": 372,
-          "margin_pct": "7.88",
+          "margin_pct": "7.87",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -25991,7 +25991,7 @@
           "total_votes": 8433,
           "two_party_total": 8425,
           "margin": 2773,
-          "margin_pct": "32.91",
+          "margin_pct": "32.88",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -26022,7 +26022,7 @@
           "total_votes": 36625,
           "two_party_total": 36591,
           "margin": 3055,
-          "margin_pct": "8.35",
+          "margin_pct": "8.34",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -26053,7 +26053,7 @@
           "total_votes": 21021,
           "two_party_total": 20999,
           "margin": 2213,
-          "margin_pct": "10.54",
+          "margin_pct": "10.53",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -26117,7 +26117,7 @@
           "total_votes": 18931,
           "two_party_total": 18682,
           "margin": 13304,
-          "margin_pct": "71.21",
+          "margin_pct": "70.28",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26150,7 +26150,7 @@
           "total_votes": 144578,
           "two_party_total": 142933,
           "margin": 63939,
-          "margin_pct": "44.73",
+          "margin_pct": "44.22",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26183,7 +26183,7 @@
           "total_votes": 203501,
           "two_party_total": 201268,
           "margin": 56652,
-          "margin_pct": "28.15",
+          "margin_pct": "27.84",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -26216,7 +26216,7 @@
           "total_votes": 122209,
           "two_party_total": 120368,
           "margin": 41952,
-          "margin_pct": "34.85",
+          "margin_pct": "34.33",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -26249,7 +26249,7 @@
           "total_votes": 28243,
           "two_party_total": 27891,
           "margin": 15955,
-          "margin_pct": "57.20",
+          "margin_pct": "56.49",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26282,7 +26282,7 @@
           "total_votes": 7982,
           "two_party_total": 7903,
           "margin": 5341,
-          "margin_pct": "67.58",
+          "margin_pct": "66.91",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26315,7 +26315,7 @@
           "total_votes": 55012,
           "two_party_total": 54393,
           "margin": 38985,
-          "margin_pct": "71.67",
+          "margin_pct": "70.87",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26348,7 +26348,7 @@
           "total_votes": 25769,
           "two_party_total": 25364,
           "margin": 15316,
-          "margin_pct": "60.38",
+          "margin_pct": "59.44",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26381,7 +26381,7 @@
           "total_votes": 44421,
           "two_party_total": 44067,
           "margin": 775,
-          "margin_pct": "1.76",
+          "margin_pct": "1.74",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -26414,7 +26414,7 @@
           "total_votes": 8663,
           "two_party_total": 8584,
           "margin": 4594,
-          "margin_pct": "53.52",
+          "margin_pct": "53.03",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26447,7 +26447,7 @@
           "total_votes": 76894,
           "two_party_total": 75921,
           "margin": 33077,
-          "margin_pct": "43.57",
+          "margin_pct": "43.02",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26480,7 +26480,7 @@
           "total_votes": 7521,
           "two_party_total": 7416,
           "margin": 5906,
-          "margin_pct": "79.64",
+          "margin_pct": "78.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26513,7 +26513,7 @@
           "total_votes": 70416,
           "two_party_total": 69553,
           "margin": 41763,
-          "margin_pct": "60.04",
+          "margin_pct": "59.31",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26546,7 +26546,7 @@
           "total_votes": 88320,
           "two_party_total": 87216,
           "margin": 17364,
-          "margin_pct": "19.91",
+          "margin_pct": "19.66",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -26579,7 +26579,7 @@
           "total_votes": 5248,
           "two_party_total": 5184,
           "margin": 2948,
-          "margin_pct": "56.87",
+          "margin_pct": "56.17",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26612,7 +26612,7 @@
           "total_votes": 249595,
           "two_party_total": 246762,
           "margin": 13454,
-          "margin_pct": "5.45",
+          "margin_pct": "5.39",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -26645,7 +26645,7 @@
           "total_votes": 194729,
           "two_party_total": 192677,
           "margin": 86653,
-          "margin_pct": "44.97",
+          "margin_pct": "44.50",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -26678,7 +26678,7 @@
           "total_votes": 12923,
           "two_party_total": 12813,
           "margin": 9721,
-          "margin_pct": "75.87",
+          "margin_pct": "75.22",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26711,7 +26711,7 @@
           "total_votes": 4864,
           "two_party_total": 4786,
           "margin": 2126,
-          "margin_pct": "44.42",
+          "margin_pct": "43.71",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26744,7 +26744,7 @@
           "total_votes": 28295,
           "two_party_total": 27841,
           "margin": 16101,
-          "margin_pct": "57.83",
+          "margin_pct": "56.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26777,7 +26777,7 @@
           "total_votes": 8690,
           "two_party_total": 8606,
           "margin": 5156,
-          "margin_pct": "59.91",
+          "margin_pct": "59.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26810,7 +26810,7 @@
           "total_votes": 38284,
           "two_party_total": 37658,
           "margin": 22914,
-          "margin_pct": "60.85",
+          "margin_pct": "59.85",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26843,14 +26843,14 @@
           "total_votes": 21421,
           "two_party_total": 21118,
           "margin": 8460,
-          "margin_pct": "40.06",
+          "margin_pct": "39.49",
           "winner": "REP",
           "competitiveness": {
-            "category": "Annihilation",
+            "category": "Dominant",
             "party": "Republican",
-            "code": "R_ANNIHILATION",
-            "color": "#67000d",
-            "label": "Annihilation Republican (>=40.00%)"
+            "code": "R_DOMINANT",
+            "color": "#a50f15",
+            "label": "Dominant Republican (30.00-39.99%)"
           },
           "all_parties": {
             "REP": 14789,
@@ -26876,7 +26876,7 @@
           "total_votes": 15520,
           "two_party_total": 15345,
           "margin": 8391,
-          "margin_pct": "54.68",
+          "margin_pct": "54.07",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -26911,14 +26911,14 @@
           "total_votes": 18732,
           "two_party_total": 17983,
           "margin": 5451,
-          "margin_pct": "30.31",
+          "margin_pct": "29.10",
           "winner": "REP",
           "competitiveness": {
-            "category": "Dominant",
+            "category": "Stronghold",
             "party": "Republican",
-            "code": "R_DOMINANT",
-            "color": "#a50f15",
-            "label": "Dominant Republican (30.00-39.99%)"
+            "code": "R_STRONGHOLD",
+            "color": "#cb181d",
+            "label": "Stronghold Republican (20.00-29.99%)"
           },
           "all_parties": {
             "REP": 11717,
@@ -26944,7 +26944,7 @@
           "total_votes": 143743,
           "two_party_total": 134927,
           "margin": 8129,
-          "margin_pct": "6.02",
+          "margin_pct": "5.66",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -26977,7 +26977,7 @@
           "total_votes": 202974,
           "two_party_total": 189914,
           "margin": 44592,
-          "margin_pct": "23.48",
+          "margin_pct": "21.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -27010,7 +27010,7 @@
           "total_votes": 121800,
           "two_party_total": 116354,
           "margin": 91708,
-          "margin_pct": "78.82",
+          "margin_pct": "75.29",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -27043,7 +27043,7 @@
           "total_votes": 28043,
           "two_party_total": 26746,
           "margin": 3412,
-          "margin_pct": "12.76",
+          "margin_pct": "12.17",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -27076,7 +27076,7 @@
           "total_votes": 7842,
           "two_party_total": 7496,
           "margin": 1806,
-          "margin_pct": "24.09",
+          "margin_pct": "23.03",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27109,7 +27109,7 @@
           "total_votes": 54467,
           "two_party_total": 50131,
           "margin": 14543,
-          "margin_pct": "29.01",
+          "margin_pct": "26.70",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27142,7 +27142,7 @@
           "total_votes": 25626,
           "two_party_total": 24350,
           "margin": 6064,
-          "margin_pct": "24.90",
+          "margin_pct": "23.66",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27175,7 +27175,7 @@
           "total_votes": 44394,
           "two_party_total": 43157,
           "margin": 16829,
-          "margin_pct": "38.99",
+          "margin_pct": "37.91",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -27208,7 +27208,7 @@
           "total_votes": 8599,
           "two_party_total": 8289,
           "margin": 517,
-          "margin_pct": "6.24",
+          "margin_pct": "6.01",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -27241,7 +27241,7 @@
           "total_votes": 76477,
           "two_party_total": 73012,
           "margin": 262,
-          "margin_pct": "0.36",
+          "margin_pct": "0.34",
           "winner": "REP",
           "competitiveness": {
             "category": "Tossup",
@@ -27274,7 +27274,7 @@
           "total_votes": 7457,
           "two_party_total": 7253,
           "margin": 4047,
-          "margin_pct": "55.80",
+          "margin_pct": "54.27",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -27307,7 +27307,7 @@
           "total_votes": 70032,
           "two_party_total": 65294,
           "margin": 10716,
-          "margin_pct": "16.41",
+          "margin_pct": "15.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -27340,7 +27340,7 @@
           "total_votes": 88053,
           "two_party_total": 82503,
           "margin": 29411,
-          "margin_pct": "35.65",
+          "margin_pct": "33.40",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -27373,7 +27373,7 @@
           "total_votes": 5154,
           "two_party_total": 4842,
           "margin": 16,
-          "margin_pct": "0.33",
+          "margin_pct": "0.31",
           "winner": "REP",
           "competitiveness": {
             "category": "Tossup",
@@ -27406,7 +27406,7 @@
           "total_votes": 247860,
           "two_party_total": 236459,
           "margin": 131961,
-          "margin_pct": "55.81",
+          "margin_pct": "53.24",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -27439,7 +27439,7 @@
           "total_votes": 194098,
           "two_party_total": 189449,
           "margin": 156475,
-          "margin_pct": "82.59",
+          "margin_pct": "80.62",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -27472,7 +27472,7 @@
           "total_votes": 12757,
           "two_party_total": 11949,
           "margin": 3275,
-          "margin_pct": "27.41",
+          "margin_pct": "25.67",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27505,7 +27505,7 @@
           "total_votes": 4886,
           "two_party_total": 4758,
           "margin": 522,
-          "margin_pct": "10.97",
+          "margin_pct": "10.68",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -27538,7 +27538,7 @@
           "total_votes": 28078,
           "two_party_total": 26664,
           "margin": 4388,
-          "margin_pct": "16.46",
+          "margin_pct": "15.63",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -27571,7 +27571,7 @@
           "total_votes": 8566,
           "two_party_total": 8111,
           "margin": 291,
-          "margin_pct": "3.59",
+          "margin_pct": "3.40",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -27604,7 +27604,7 @@
           "total_votes": 38124,
           "two_party_total": 36495,
           "margin": 8969,
-          "margin_pct": "24.58",
+          "margin_pct": "23.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27637,7 +27637,7 @@
           "total_votes": 21541,
           "two_party_total": 20612,
           "margin": 964,
-          "margin_pct": "4.68",
+          "margin_pct": "4.48",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -27670,7 +27670,7 @@
           "total_votes": 15504,
           "two_party_total": 14836,
           "margin": 2546,
-          "margin_pct": "17.16",
+          "margin_pct": "16.42",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -27707,7 +27707,7 @@
           "total_votes": 419206,
           "two_party_total": 413838,
           "margin": 413838,
-          "margin_pct": "100.00",
+          "margin_pct": "98.72",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -27739,7 +27739,7 @@
           "total_votes": 61263,
           "two_party_total": 60088,
           "margin": 23456,
-          "margin_pct": "39.04",
+          "margin_pct": "38.29",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -27775,7 +27775,7 @@
           "total_votes": 619234,
           "two_party_total": 601288,
           "margin": 90004,
-          "margin_pct": "14.97",
+          "margin_pct": "14.53",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -27811,7 +27811,7 @@
           "total_votes": 829864,
           "two_party_total": 809222,
           "margin": 224414,
-          "margin_pct": "27.73",
+          "margin_pct": "27.04",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -27847,7 +27847,7 @@
           "total_votes": 474803,
           "two_party_total": 465268,
           "margin": 363772,
-          "margin_pct": "78.19",
+          "margin_pct": "76.62",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -27883,7 +27883,7 @@
           "total_votes": 98225,
           "two_party_total": 95866,
           "margin": 5518,
-          "margin_pct": "5.76",
+          "margin_pct": "5.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -27919,7 +27919,7 @@
           "total_votes": 31581,
           "two_party_total": 30756,
           "margin": 10376,
-          "margin_pct": "33.74",
+          "margin_pct": "32.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -27955,7 +27955,7 @@
           "total_votes": 200654,
           "two_party_total": 193348,
           "margin": 47524,
-          "margin_pct": "24.58",
+          "margin_pct": "23.68",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -27991,7 +27991,7 @@
           "total_votes": 94905,
           "two_party_total": 92496,
           "margin": 25260,
-          "margin_pct": "27.31",
+          "margin_pct": "26.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -28027,7 +28027,7 @@
           "total_votes": 178946,
           "two_party_total": 175500,
           "margin": 73184,
-          "margin_pct": "41.70",
+          "margin_pct": "40.90",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28063,7 +28063,7 @@
           "total_votes": 31953,
           "two_party_total": 31242,
           "margin": 3814,
-          "margin_pct": "12.21",
+          "margin_pct": "11.94",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28099,7 +28099,7 @@
           "total_votes": 291137,
           "two_party_total": 282714,
           "margin": 27986,
-          "margin_pct": "9.90",
+          "margin_pct": "9.61",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -28135,7 +28135,7 @@
           "total_votes": 31222,
           "two_party_total": 30564,
           "margin": 17440,
-          "margin_pct": "57.06",
+          "margin_pct": "55.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -28171,7 +28171,7 @@
           "total_votes": 296317,
           "two_party_total": 288050,
           "margin": 35670,
-          "margin_pct": "12.38",
+          "margin_pct": "12.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28207,7 +28207,7 @@
           "total_votes": 366124,
           "two_party_total": 355646,
           "margin": 162086,
-          "margin_pct": "45.58",
+          "margin_pct": "44.27",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28243,7 +28243,7 @@
           "total_votes": 21588,
           "two_party_total": 21048,
           "margin": 268,
-          "margin_pct": "1.27",
+          "margin_pct": "1.24",
           "winner": "DEM",
           "competitiveness": {
             "category": "Lean",
@@ -28279,7 +28279,7 @@
           "total_votes": 1067486,
           "two_party_total": 1041582,
           "margin": 636694,
-          "margin_pct": "61.13",
+          "margin_pct": "59.64",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28315,7 +28315,7 @@
           "total_votes": 849710,
           "two_party_total": 832596,
           "margin": 684236,
-          "margin_pct": "82.18",
+          "margin_pct": "80.53",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28351,7 +28351,7 @@
           "total_votes": 60580,
           "two_party_total": 58900,
           "margin": 16064,
-          "margin_pct": "27.27",
+          "margin_pct": "26.52",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -28387,7 +28387,7 @@
           "total_votes": 20293,
           "two_party_total": 19960,
           "margin": 2996,
-          "margin_pct": "15.01",
+          "margin_pct": "14.76",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28423,7 +28423,7 @@
           "total_votes": 111330,
           "two_party_total": 107928,
           "margin": 15376,
-          "margin_pct": "14.25",
+          "margin_pct": "13.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28459,7 +28459,7 @@
           "total_votes": 45103,
           "two_party_total": 44016,
           "margin": 232,
-          "margin_pct": "0.53",
+          "margin_pct": "0.51",
           "winner": "DEM",
           "competitiveness": {
             "category": "Tilt",
@@ -28495,7 +28495,7 @@
           "total_votes": 135559,
           "two_party_total": 132536,
           "margin": 28360,
-          "margin_pct": "21.40",
+          "margin_pct": "20.92",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -28531,7 +28531,7 @@
           "total_votes": 92421,
           "two_party_total": 89996,
           "margin": 1780,
-          "margin_pct": "1.98",
+          "margin_pct": "1.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -28567,7 +28567,7 @@
           "total_votes": 63382,
           "two_party_total": 62262,
           "margin": 12022,
-          "margin_pct": "19.31",
+          "margin_pct": "18.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28607,7 +28607,7 @@
           "total_votes": 21392,
           "two_party_total": 21376,
           "margin": 7388,
-          "margin_pct": "34.56",
+          "margin_pct": "34.54",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -28638,7 +28638,7 @@
           "total_votes": 213247,
           "two_party_total": 212814,
           "margin": 29378,
-          "margin_pct": "13.80",
+          "margin_pct": "13.78",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -28669,7 +28669,7 @@
           "total_votes": 271805,
           "two_party_total": 271338,
           "margin": 70378,
-          "margin_pct": "25.94",
+          "margin_pct": "25.89",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -28700,7 +28700,7 @@
           "total_votes": 143164,
           "two_party_total": 142876,
           "margin": 113688,
-          "margin_pct": "79.57",
+          "margin_pct": "79.41",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28731,7 +28731,7 @@
           "total_votes": 36963,
           "two_party_total": 36922,
           "margin": 3628,
-          "margin_pct": "9.83",
+          "margin_pct": "9.82",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -28762,7 +28762,7 @@
           "total_votes": 10616,
           "two_party_total": 10603,
           "margin": 3653,
-          "margin_pct": "34.45",
+          "margin_pct": "34.41",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -28793,7 +28793,7 @@
           "total_votes": 71235,
           "two_party_total": 71123,
           "margin": 17267,
-          "margin_pct": "24.28",
+          "margin_pct": "24.24",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -28824,7 +28824,7 @@
           "total_votes": 32629,
           "two_party_total": 32594,
           "margin": 8906,
-          "margin_pct": "27.32",
+          "margin_pct": "27.29",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -28855,7 +28855,7 @@
           "total_votes": 54042,
           "two_party_total": 53987,
           "margin": 21903,
-          "margin_pct": "40.57",
+          "margin_pct": "40.53",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -28886,7 +28886,7 @@
           "total_votes": 11415,
           "two_party_total": 11399,
           "margin": 1831,
-          "margin_pct": "16.06",
+          "margin_pct": "16.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -28917,7 +28917,7 @@
           "total_votes": 104973,
           "two_party_total": 104861,
           "margin": 8433,
-          "margin_pct": "8.04",
+          "margin_pct": "8.03",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -28948,7 +28948,7 @@
           "total_votes": 11113,
           "two_party_total": 11108,
           "margin": 5886,
-          "margin_pct": "52.99",
+          "margin_pct": "52.96",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -28979,7 +28979,7 @@
           "total_votes": 102199,
           "two_party_total": 102051,
           "margin": 14987,
-          "margin_pct": "14.69",
+          "margin_pct": "14.66",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -29010,7 +29010,7 @@
           "total_votes": 128349,
           "two_party_total": 128134,
           "margin": 50154,
-          "margin_pct": "39.14",
+          "margin_pct": "39.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -29072,7 +29072,7 @@
           "total_votes": 337462,
           "two_party_total": 336933,
           "margin": 200157,
-          "margin_pct": "59.41",
+          "margin_pct": "59.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -29103,7 +29103,7 @@
           "total_votes": 237361,
           "two_party_total": 237059,
           "margin": 196191,
-          "margin_pct": "82.76",
+          "margin_pct": "82.66",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -29134,7 +29134,7 @@
           "total_votes": 22550,
           "two_party_total": 22526,
           "margin": 5742,
-          "margin_pct": "25.49",
+          "margin_pct": "25.46",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29165,7 +29165,7 @@
           "total_votes": 37151,
           "two_party_total": 37115,
           "margin": 6361,
-          "margin_pct": "17.14",
+          "margin_pct": "17.12",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -29196,7 +29196,7 @@
           "total_votes": 6795,
           "two_party_total": 6789,
           "margin": 1563,
-          "margin_pct": "23.02",
+          "margin_pct": "23.00",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29258,7 +29258,7 @@
           "total_votes": 47993,
           "two_party_total": 47952,
           "margin": 10342,
-          "margin_pct": "21.57",
+          "margin_pct": "21.55",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29289,7 +29289,7 @@
           "total_votes": 30396,
           "two_party_total": 30373,
           "margin": 1943,
-          "margin_pct": "6.40",
+          "margin_pct": "6.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -29320,7 +29320,7 @@
           "total_votes": 23752,
           "two_party_total": 23733,
           "margin": 5545,
-          "margin_pct": "23.36",
+          "margin_pct": "23.35",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29353,7 +29353,7 @@
           "total_votes": 21392,
           "two_party_total": 21376,
           "margin": 8358,
-          "margin_pct": "39.10",
+          "margin_pct": "39.07",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -29415,7 +29415,7 @@
           "total_votes": 273056,
           "two_party_total": 272770,
           "margin": 51298,
-          "margin_pct": "18.81",
+          "margin_pct": "18.79",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -29446,7 +29446,7 @@
           "total_votes": 143201,
           "two_party_total": 142939,
           "margin": 105473,
-          "margin_pct": "73.79",
+          "margin_pct": "73.65",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -29477,7 +29477,7 @@
           "total_votes": 36931,
           "two_party_total": 36905,
           "margin": 5533,
-          "margin_pct": "14.99",
+          "margin_pct": "14.98",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -29508,7 +29508,7 @@
           "total_votes": 10541,
           "two_party_total": 10530,
           "margin": 3996,
-          "margin_pct": "37.95",
+          "margin_pct": "37.91",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -29539,7 +29539,7 @@
           "total_votes": 70736,
           "two_party_total": 70682,
           "margin": 22160,
-          "margin_pct": "31.35",
+          "margin_pct": "31.33",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -29570,7 +29570,7 @@
           "total_votes": 32763,
           "two_party_total": 32738,
           "margin": 11116,
-          "margin_pct": "33.95",
+          "margin_pct": "33.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -29601,7 +29601,7 @@
           "total_votes": 54084,
           "two_party_total": 54032,
           "margin": 19970,
-          "margin_pct": "36.96",
+          "margin_pct": "36.92",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -29632,7 +29632,7 @@
           "total_votes": 11237,
           "two_party_total": 11222,
           "margin": 1940,
-          "margin_pct": "17.29",
+          "margin_pct": "17.26",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -29694,7 +29694,7 @@
           "total_votes": 11168,
           "two_party_total": 11162,
           "margin": 6238,
-          "margin_pct": "55.89",
+          "margin_pct": "55.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -29725,7 +29725,7 @@
           "total_votes": 102723,
           "two_party_total": 102423,
           "margin": 26295,
-          "margin_pct": "25.67",
+          "margin_pct": "25.60",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29756,7 +29756,7 @@
           "total_votes": 128867,
           "two_party_total": 128776,
           "margin": 38242,
-          "margin_pct": "29.70",
+          "margin_pct": "29.68",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -29787,7 +29787,7 @@
           "total_votes": 8340,
           "two_party_total": 8338,
           "margin": 374,
-          "margin_pct": "4.49",
+          "margin_pct": "4.48",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -29818,7 +29818,7 @@
           "total_votes": 339017,
           "two_party_total": 338683,
           "margin": 172243,
-          "margin_pct": "50.86",
+          "margin_pct": "50.81",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -29849,7 +29849,7 @@
           "total_votes": 237568,
           "two_party_total": 237189,
           "margin": 188781,
-          "margin_pct": "79.59",
+          "margin_pct": "79.46",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -29880,7 +29880,7 @@
           "total_votes": 22730,
           "two_party_total": 22718,
           "margin": 7288,
-          "margin_pct": "32.08",
+          "margin_pct": "32.06",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -29911,7 +29911,7 @@
           "total_votes": 37138,
           "two_party_total": 37115,
           "margin": 8491,
-          "margin_pct": "22.88",
+          "margin_pct": "22.86",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -29942,7 +29942,7 @@
           "total_votes": 6697,
           "two_party_total": 6690,
           "margin": 1684,
-          "margin_pct": "25.17",
+          "margin_pct": "25.15",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30004,7 +30004,7 @@
           "total_votes": 48048,
           "two_party_total": 48019,
           "margin": 12585,
-          "margin_pct": "26.21",
+          "margin_pct": "26.19",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30066,7 +30066,7 @@
           "total_votes": 23393,
           "two_party_total": 23384,
           "margin": 6124,
-          "margin_pct": "26.19",
+          "margin_pct": "26.18",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30099,7 +30099,7 @@
           "total_votes": 21697,
           "two_party_total": 20941,
           "margin": 7349,
-          "margin_pct": "35.09",
+          "margin_pct": "33.87",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -30134,7 +30134,7 @@
           "total_votes": 216023,
           "two_party_total": 207752,
           "margin": 40106,
-          "margin_pct": "19.30",
+          "margin_pct": "18.57",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -30169,7 +30169,7 @@
           "total_votes": 272054,
           "two_party_total": 261465,
           "margin": 83523,
-          "margin_pct": "31.94",
+          "margin_pct": "30.70",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -30204,7 +30204,7 @@
           "total_votes": 143867,
           "two_party_total": 139077,
           "margin": 114459,
-          "margin_pct": "82.30",
+          "margin_pct": "79.56",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -30239,7 +30239,7 @@
           "total_votes": 37577,
           "two_party_total": 36425,
           "margin": 2911,
-          "margin_pct": "7.99",
+          "margin_pct": "7.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -30274,7 +30274,7 @@
           "total_votes": 10729,
           "two_party_total": 10316,
           "margin": 3422,
-          "margin_pct": "33.17",
+          "margin_pct": "31.89",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -30309,7 +30309,7 @@
           "total_votes": 71887,
           "two_party_total": 68800,
           "margin": 12566,
-          "margin_pct": "18.26",
+          "margin_pct": "17.48",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -30344,7 +30344,7 @@
           "total_votes": 33067,
           "two_party_total": 31865,
           "margin": 7881,
-          "margin_pct": "24.73",
+          "margin_pct": "23.83",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30379,14 +30379,14 @@
           "total_votes": 54510,
           "two_party_total": 53197,
           "margin": 21537,
-          "margin_pct": "40.49",
+          "margin_pct": "39.51",
           "winner": "DEM",
           "competitiveness": {
-            "category": "Annihilation",
+            "category": "Dominant",
             "party": "Democratic",
-            "code": "D_ANNIHILATION",
-            "color": "#08306b",
-            "label": "Annihilation Democratic (>=40.00%)"
+            "code": "D_DOMINANT",
+            "color": "#08519c",
+            "label": "Dominant Democratic (30.00-39.99%)"
           },
           "all_parties": {
             "REP": 15830,
@@ -30414,7 +30414,7 @@
           "total_votes": 11493,
           "two_party_total": 11092,
           "margin": 1662,
-          "margin_pct": "14.98",
+          "margin_pct": "14.46",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -30449,7 +30449,7 @@
           "total_votes": 106608,
           "two_party_total": 103032,
           "margin": 10952,
-          "margin_pct": "10.63",
+          "margin_pct": "10.27",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -30484,7 +30484,7 @@
           "total_votes": 11305,
           "two_party_total": 10888,
           "margin": 5874,
-          "margin_pct": "53.95",
+          "margin_pct": "51.96",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -30519,7 +30519,7 @@
           "total_votes": 103346,
           "two_party_total": 99184,
           "margin": 8740,
-          "margin_pct": "8.81",
+          "margin_pct": "8.46",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -30554,7 +30554,7 @@
           "total_votes": 130291,
           "two_party_total": 125545,
           "margin": 56517,
-          "margin_pct": "45.02",
+          "margin_pct": "43.38",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -30589,7 +30589,7 @@
           "total_votes": 8463,
           "two_party_total": 8185,
           "margin": 603,
-          "margin_pct": "7.37",
+          "margin_pct": "7.13",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -30624,7 +30624,7 @@
           "total_votes": 343371,
           "two_party_total": 333579,
           "margin": 204565,
-          "margin_pct": "61.32",
+          "margin_pct": "59.58",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -30659,7 +30659,7 @@
           "total_votes": 240908,
           "two_party_total": 235016,
           "margin": 194926,
-          "margin_pct": "82.94",
+          "margin_pct": "80.91",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -30694,7 +30694,7 @@
           "total_votes": 22899,
           "two_party_total": 22036,
           "margin": 4210,
-          "margin_pct": "19.11",
+          "margin_pct": "18.39",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -30729,7 +30729,7 @@
           "total_votes": 37703,
           "two_party_total": 36207,
           "margin": 6093,
-          "margin_pct": "16.83",
+          "margin_pct": "16.16",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -30764,7 +30764,7 @@
           "total_votes": 6829,
           "two_party_total": 6619,
           "margin": 1637,
-          "margin_pct": "24.73",
+          "margin_pct": "23.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30799,7 +30799,7 @@
           "total_votes": 17646,
           "two_party_total": 17051,
           "margin": 1181,
-          "margin_pct": "6.93",
+          "margin_pct": "6.69",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -30834,7 +30834,7 @@
           "total_votes": 48853,
           "two_party_total": 47274,
           "margin": 9820,
-          "margin_pct": "20.77",
+          "margin_pct": "20.10",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30869,7 +30869,7 @@
           "total_votes": 30296,
           "two_party_total": 29235,
           "margin": 1489,
-          "margin_pct": "5.09",
+          "margin_pct": "4.91",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -30904,7 +30904,7 @@
           "total_votes": 23801,
           "two_party_total": 23163,
           "margin": 4771,
-          "margin_pct": "20.60",
+          "margin_pct": "20.05",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -30941,7 +30941,7 @@
           "total_votes": 21587,
           "two_party_total": 21570,
           "margin": 7082,
-          "margin_pct": "32.83",
+          "margin_pct": "32.81",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -30973,7 +30973,7 @@
           "total_votes": 215544,
           "two_party_total": 215204,
           "margin": 32262,
-          "margin_pct": "14.99",
+          "margin_pct": "14.97",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -31005,7 +31005,7 @@
           "total_votes": 273126,
           "two_party_total": 272783,
           "margin": 78169,
-          "margin_pct": "28.66",
+          "margin_pct": "28.62",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -31037,7 +31037,7 @@
           "total_votes": 143386,
           "two_party_total": 143131,
           "margin": 115433,
-          "margin_pct": "80.65",
+          "margin_pct": "80.51",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31069,7 +31069,7 @@
           "total_votes": 37426,
           "two_party_total": 37392,
           "margin": 3372,
-          "margin_pct": "9.02",
+          "margin_pct": "9.01",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -31101,7 +31101,7 @@
           "total_votes": 10656,
           "two_party_total": 10642,
           "margin": 3466,
-          "margin_pct": "32.57",
+          "margin_pct": "32.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -31133,7 +31133,7 @@
           "total_votes": 71626,
           "two_party_total": 71546,
           "margin": 15976,
-          "margin_pct": "22.33",
+          "margin_pct": "22.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31165,7 +31165,7 @@
           "total_votes": 32913,
           "two_party_total": 32878,
           "margin": 8572,
-          "margin_pct": "26.07",
+          "margin_pct": "26.04",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31197,7 +31197,7 @@
           "total_votes": 54574,
           "two_party_total": 54496,
           "margin": 22082,
-          "margin_pct": "40.52",
+          "margin_pct": "40.46",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31229,7 +31229,7 @@
           "total_votes": 11473,
           "two_party_total": 11459,
           "margin": 1563,
-          "margin_pct": "13.64",
+          "margin_pct": "13.62",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -31261,7 +31261,7 @@
           "total_votes": 106233,
           "two_party_total": 106127,
           "margin": 11315,
-          "margin_pct": "10.66",
+          "margin_pct": "10.65",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -31293,7 +31293,7 @@
           "total_votes": 11262,
           "two_party_total": 11256,
           "margin": 6038,
-          "margin_pct": "53.64",
+          "margin_pct": "53.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -31325,7 +31325,7 @@
           "total_votes": 103136,
           "two_party_total": 102997,
           "margin": 12429,
-          "margin_pct": "12.07",
+          "margin_pct": "12.05",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -31357,7 +31357,7 @@
           "total_votes": 130052,
           "two_party_total": 129845,
           "margin": 54611,
-          "margin_pct": "42.06",
+          "margin_pct": "41.99",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31389,7 +31389,7 @@
           "total_votes": 8425,
           "two_party_total": 8414,
           "margin": 514,
-          "margin_pct": "6.11",
+          "margin_pct": "6.10",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -31421,7 +31421,7 @@
           "total_votes": 343072,
           "two_party_total": 342485,
           "margin": 210573,
-          "margin_pct": "61.48",
+          "margin_pct": "61.38",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31453,7 +31453,7 @@
           "total_votes": 240251,
           "two_party_total": 239888,
           "margin": 197634,
-          "margin_pct": "82.39",
+          "margin_pct": "82.26",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31485,7 +31485,7 @@
           "total_votes": 22805,
           "two_party_total": 22783,
           "margin": 5345,
-          "margin_pct": "23.46",
+          "margin_pct": "23.44",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31517,7 +31517,7 @@
           "total_votes": 37568,
           "two_party_total": 37527,
           "margin": 6211,
-          "margin_pct": "16.55",
+          "margin_pct": "16.53",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -31549,7 +31549,7 @@
           "total_votes": 6807,
           "two_party_total": 6802,
           "margin": 1490,
-          "margin_pct": "21.91",
+          "margin_pct": "21.89",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31613,7 +31613,7 @@
           "total_votes": 48556,
           "two_party_total": 48498,
           "margin": 9646,
-          "margin_pct": "19.89",
+          "margin_pct": "19.87",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -31677,7 +31677,7 @@
           "total_votes": 23837,
           "two_party_total": 23819,
           "margin": 5143,
-          "margin_pct": "21.59",
+          "margin_pct": "21.58",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31713,7 +31713,7 @@
           "total_votes": 197567,
           "two_party_total": 195345,
           "margin": 195345,
-          "margin_pct": "100.00",
+          "margin_pct": "98.88",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31745,7 +31745,7 @@
           "total_votes": 32137,
           "two_party_total": 31372,
           "margin": 12910,
-          "margin_pct": "41.15",
+          "margin_pct": "40.17",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -31780,7 +31780,7 @@
           "total_votes": 311572,
           "two_party_total": 300846,
           "margin": 43048,
-          "margin_pct": "14.31",
+          "margin_pct": "13.82",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -31815,7 +31815,7 @@
           "total_votes": 412915,
           "two_party_total": 399547,
           "margin": 100391,
-          "margin_pct": "25.13",
+          "margin_pct": "24.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -31850,7 +31850,7 @@
           "total_votes": 230754,
           "two_party_total": 223110,
           "margin": 167130,
-          "margin_pct": "74.91",
+          "margin_pct": "72.43",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -31885,7 +31885,7 @@
           "total_votes": 54191,
           "two_party_total": 52802,
           "margin": 5924,
-          "margin_pct": "11.22",
+          "margin_pct": "10.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -31920,7 +31920,7 @@
           "total_votes": 16330,
           "two_party_total": 15914,
           "margin": 6194,
-          "margin_pct": "38.92",
+          "margin_pct": "37.93",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -31955,7 +31955,7 @@
           "total_votes": 102651,
           "two_party_total": 99141,
           "margin": 25407,
-          "margin_pct": "25.63",
+          "margin_pct": "24.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -31990,7 +31990,7 @@
           "total_votes": 52831,
           "two_party_total": 51499,
           "margin": 16243,
-          "margin_pct": "31.54",
+          "margin_pct": "30.75",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -32025,7 +32025,7 @@
           "total_votes": 92097,
           "two_party_total": 89607,
           "margin": 37301,
-          "margin_pct": "41.63",
+          "margin_pct": "40.50",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -32060,7 +32060,7 @@
           "total_votes": 16772,
           "two_party_total": 16345,
           "margin": 2435,
-          "margin_pct": "14.90",
+          "margin_pct": "14.52",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -32095,7 +32095,7 @@
           "total_votes": 156114,
           "two_party_total": 151174,
           "margin": 13644,
-          "margin_pct": "9.03",
+          "margin_pct": "8.74",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -32130,7 +32130,7 @@
           "total_votes": 15838,
           "two_party_total": 15439,
           "margin": 8527,
-          "margin_pct": "55.23",
+          "margin_pct": "53.84",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32165,7 +32165,7 @@
           "total_votes": 150090,
           "two_party_total": 145506,
           "margin": 20600,
-          "margin_pct": "14.16",
+          "margin_pct": "13.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -32200,7 +32200,7 @@
           "total_votes": 182291,
           "two_party_total": 174217,
           "margin": 75313,
-          "margin_pct": "43.23",
+          "margin_pct": "41.31",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -32235,7 +32235,7 @@
           "total_votes": 11128,
           "two_party_total": 10813,
           "margin": 311,
-          "margin_pct": "2.88",
+          "margin_pct": "2.79",
           "winner": "REP",
           "competitiveness": {
             "category": "Lean",
@@ -32270,7 +32270,7 @@
           "total_votes": 519221,
           "two_party_total": 499221,
           "margin": 273941,
-          "margin_pct": "54.87",
+          "margin_pct": "52.76",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -32305,7 +32305,7 @@
           "total_votes": 404009,
           "two_party_total": 392048,
           "margin": 302028,
-          "margin_pct": "77.04",
+          "margin_pct": "74.76",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -32340,7 +32340,7 @@
           "total_votes": 32347,
           "two_party_total": 31476,
           "margin": 8930,
-          "margin_pct": "28.37",
+          "margin_pct": "27.61",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -32375,7 +32375,7 @@
           "total_votes": 58954,
           "two_party_total": 57119,
           "margin": 10057,
-          "margin_pct": "17.61",
+          "margin_pct": "17.06",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -32410,7 +32410,7 @@
           "total_votes": 10137,
           "two_party_total": 9860,
           "margin": 1752,
-          "margin_pct": "17.77",
+          "margin_pct": "17.28",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -32480,7 +32480,7 @@
           "total_votes": 73332,
           "two_party_total": 71316,
           "margin": 16796,
-          "margin_pct": "23.55",
+          "margin_pct": "22.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -32515,14 +32515,14 @@
           "total_votes": 46912,
           "two_party_total": 45579,
           "margin": 2553,
-          "margin_pct": "5.60",
+          "margin_pct": "5.44",
           "winner": "REP",
           "competitiveness": {
-            "category": "Likely",
+            "category": "Lean",
             "party": "Republican",
-            "code": "R_LIKELY",
-            "color": "#fb6a4a",
-            "label": "Likely Republican (5.50-9.99%)"
+            "code": "R_LEAN",
+            "color": "#fcae91",
+            "label": "Lean Republican (1.00-5.49%)"
           },
           "all_parties": {
             "DEM": 21513,
@@ -32550,7 +32550,7 @@
           "total_votes": 32881,
           "two_party_total": 32064,
           "margin": 7202,
-          "margin_pct": "22.46",
+          "margin_pct": "21.90",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -32587,7 +32587,7 @@
           "total_votes": 31411,
           "two_party_total": 29207,
           "margin": 14415,
-          "margin_pct": "49.35",
+          "margin_pct": "45.89",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32621,7 +32621,7 @@
           "total_votes": 310387,
           "two_party_total": 302343,
           "margin": 27053,
-          "margin_pct": "8.95",
+          "margin_pct": "8.72",
           "winner": "REP",
           "competitiveness": {
             "category": "Likely",
@@ -32655,7 +32655,7 @@
           "total_votes": 411123,
           "two_party_total": 400762,
           "margin": 24408,
-          "margin_pct": "6.09",
+          "margin_pct": "5.94",
           "winner": "DEM",
           "competitiveness": {
             "category": "Likely",
@@ -32689,7 +32689,7 @@
           "total_votes": 230037,
           "two_party_total": 226017,
           "margin": 141841,
-          "margin_pct": "62.76",
+          "margin_pct": "61.66",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -32723,7 +32723,7 @@
           "total_votes": 53755,
           "two_party_total": 51939,
           "margin": 15221,
-          "margin_pct": "29.31",
+          "margin_pct": "28.32",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -32757,7 +32757,7 @@
           "total_votes": 16129,
           "two_party_total": 15326,
           "margin": 7746,
-          "margin_pct": "50.54",
+          "margin_pct": "48.03",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32791,7 +32791,7 @@
           "total_votes": 101991,
           "two_party_total": 98229,
           "margin": 45869,
-          "margin_pct": "46.70",
+          "margin_pct": "44.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32825,7 +32825,7 @@
           "total_votes": 51872,
           "two_party_total": 48949,
           "margin": 22165,
-          "margin_pct": "45.28",
+          "margin_pct": "42.73",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32859,7 +32859,7 @@
           "total_votes": 91790,
           "two_party_total": 89834,
           "margin": 25952,
-          "margin_pct": "28.89",
+          "margin_pct": "28.27",
           "winner": "DEM",
           "competitiveness": {
             "category": "Stronghold",
@@ -32893,7 +32893,7 @@
           "total_votes": 16639,
           "two_party_total": 15950,
           "margin": 4276,
-          "margin_pct": "26.81",
+          "margin_pct": "25.70",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -32927,7 +32927,7 @@
           "total_votes": 154769,
           "two_party_total": 150047,
           "margin": 17487,
-          "margin_pct": "11.65",
+          "margin_pct": "11.30",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -32961,7 +32961,7 @@
           "total_votes": 15502,
           "two_party_total": 14389,
           "margin": 9543,
-          "margin_pct": "66.32",
+          "margin_pct": "61.56",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -32995,7 +32995,7 @@
           "total_votes": 149179,
           "two_party_total": 143563,
           "margin": 47347,
-          "margin_pct": "32.98",
+          "margin_pct": "31.74",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -33029,7 +33029,7 @@
           "total_votes": 181792,
           "two_party_total": 178410,
           "margin": 27916,
-          "margin_pct": "15.65",
+          "margin_pct": "15.36",
           "winner": "DEM",
           "competitiveness": {
             "category": "Safe",
@@ -33063,7 +33063,7 @@
           "total_votes": 11055,
           "two_party_total": 10715,
           "margin": 2035,
-          "margin_pct": "18.99",
+          "margin_pct": "18.41",
           "winner": "REP",
           "competitiveness": {
             "category": "Safe",
@@ -33097,7 +33097,7 @@
           "total_votes": 516847,
           "two_party_total": 509583,
           "margin": 170977,
-          "margin_pct": "33.55",
+          "margin_pct": "33.08",
           "winner": "DEM",
           "competitiveness": {
             "category": "Dominant",
@@ -33131,7 +33131,7 @@
           "total_votes": 402683,
           "two_party_total": 397571,
           "margin": 268471,
-          "margin_pct": "67.53",
+          "margin_pct": "66.67",
           "winner": "DEM",
           "competitiveness": {
             "category": "Annihilation",
@@ -33165,7 +33165,7 @@
           "total_votes": 32196,
           "two_party_total": 31046,
           "margin": 14638,
-          "margin_pct": "47.15",
+          "margin_pct": "45.47",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",
@@ -33199,7 +33199,7 @@
           "total_votes": 58457,
           "two_party_total": 55897,
           "margin": 19045,
-          "margin_pct": "34.07",
+          "margin_pct": "32.58",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -33233,7 +33233,7 @@
           "total_votes": 9952,
           "two_party_total": 9321,
           "margin": 2585,
-          "margin_pct": "27.73",
+          "margin_pct": "25.97",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -33267,7 +33267,7 @@
           "total_votes": 22779,
           "two_party_total": 22171,
           "margin": 4615,
-          "margin_pct": "20.82",
+          "margin_pct": "20.26",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -33301,7 +33301,7 @@
           "total_votes": 71993,
           "two_party_total": 68358,
           "margin": 25382,
-          "margin_pct": "37.13",
+          "margin_pct": "35.26",
           "winner": "REP",
           "competitiveness": {
             "category": "Dominant",
@@ -33335,7 +33335,7 @@
           "total_votes": 46480,
           "two_party_total": 44407,
           "margin": 10081,
-          "margin_pct": "22.70",
+          "margin_pct": "21.69",
           "winner": "REP",
           "competitiveness": {
             "category": "Stronghold",
@@ -33369,7 +33369,7 @@
           "total_votes": 32560,
           "two_party_total": 31222,
           "margin": 13494,
-          "margin_pct": "43.22",
+          "margin_pct": "41.44",
           "winner": "REP",
           "competitiveness": {
             "category": "Annihilation",

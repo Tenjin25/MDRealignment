@@ -987,20 +987,20 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         <div class="legend-content" id="legend-content">
             <div class="legend-item"><div class="legend-color" style="background: #67000d;"></div>Annihilation Republican (≥40.00%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #7f1d1d;"></div>Dominant Republican (30.00-39.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #991b1b;"></div>Stronghold Republican (20.00-29.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #dc2626;"></div>Safe Republican (10.00-19.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #ef4444;"></div>Likely Republican (5.50-9.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #f87171;"></div>Lean Republican (1.00-5.49%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #fca5a5;"></div>Tilt Republican (0.50-0.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #a50f15;"></div>Dominant Republican (30.00-39.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #cb181d;"></div>Stronghold Republican (20.00-29.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #ef3b2c;"></div>Safe Republican (10.00-19.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #fb6a4a;"></div>Likely Republican (5.50-9.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #fcae91;"></div>Lean Republican (1.00-5.49%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #fee8c8;"></div>Tilt Republican (0.50-0.99%)</div>
             <div class="legend-item"><div class="legend-color" style="background: #f7f7f7; border: 1px solid #999;"></div>Tossup (<0.50%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #bfdbfe;"></div>Tilt Democratic (0.50-0.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #93c5fd;"></div>Lean Democratic (1.00-5.49%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #60a5fa;"></div>Likely Democratic (5.50-9.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #3b82f6;"></div>Safe Democratic (10.00-19.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #1e40af;"></div>Stronghold Democratic (20.00-29.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #1e3a8a;"></div>Dominant Democratic (30.00-39.99%)</div>
-            <div class="legend-item"><div class="legend-color" style="background: #0c1d56;"></div>Annihilation Democratic (≥40.00%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #e1f5fe;"></div>Tilt Democratic (0.50-0.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #c6dbef;"></div>Lean Democratic (1.00-5.49%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #9ecae1;"></div>Likely Democratic (5.50-9.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #6baed6;"></div>Safe Democratic (10.00-19.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #3182bd;"></div>Stronghold Democratic (20.00-29.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #08519c;"></div>Dominant Democratic (30.00-39.99%)</div>
+            <div class="legend-item"><div class="legend-color" style="background: #08306b;"></div>Annihilation Democratic (≥40.00%)</div>
         </div>
     </div>
 
@@ -1094,7 +1094,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function getFeatureJurisdictionName(props) {
       if (!props) return '';
-      return (
+      const rawName = (
         props.namelsad ||
         props.NAMELSAD20 ||
         props.NAMELSAD ||
@@ -1106,6 +1106,8 @@ document.addEventListener('DOMContentLoaded', function() {
         props.COUNTYNAME ||
         ''
       );
+      if (/^baltimore city$/i.test(rawName)) return 'City of Baltimore';
+      return rawName;
     }
 // Merge JSONs (e.g., boundaries + election results)
 function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County', countyNameKey='county') {
@@ -1253,6 +1255,7 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
         'Governor',
         'Lieutenant Governor',
         'Attorney General',
+        'Comptroller',
         'Secretary of State',
         'Treasurer',
         'Auditor'
@@ -1295,6 +1298,9 @@ function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County',
             'LIEUTENANT GOVERNOR': 'Lieutenant Governor',
             'MD ATTORNEY GENERAL': 'Attorney General',
             'ATTORNEY GENERAL': 'Attorney General',
+            'MD COMPTROLLER': 'Comptroller',
+            'COMPTROLLER': 'Comptroller',
+            'STATE COMPTROLLER': 'Comptroller',
             'MD TREASURER': 'Treasurer',
             'TREASURER': 'Treasurer',
             'STATE TREASURER': 'Treasurer',
@@ -1951,8 +1957,8 @@ function toggleSidebar() {
       
       // Margin calculation and winner determination
       const margin = demVotes - repVotes;
-      // Use two-party margin percentage from JSON data (margin as % of two-party vote)
-      const marginPct = parseFloat(countyData.margin_pct) || 0;
+      // Margin percentage is computed from total votes.
+      const marginPct = totalVotes > 0 ? (Math.abs(margin) / totalVotes) * 100 : 0;
       // Determine winner from vote counts since winner field doesn't exist in data
       const winner = demVotes > repVotes ? 'Democratic' : (repVotes > demVotes ? 'Republican' : 'Tie');
       const winnerCandidate = winner === 'Democratic' ? demCandidate : repCandidate;
@@ -2136,7 +2142,12 @@ function toggleSidebar() {
           type: 'symbol',
           source: 'counties',
           layout: {
-            'text-field': ['coalesce', ['get', 'NAME20'], ['get', 'NAMELSAD20'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME'], ['get', 'name']],
+            'text-field': [
+              'case',
+              ['==', ['downcase', ['coalesce', ['get', 'NAMELSAD20'], ['get', 'NAMELSAD'], ['get', 'namelsad'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME20'], ['get', 'NAME'], ['get', 'name'], '']], 'baltimore city'],
+              'City of Baltimore',
+              ['coalesce', ['get', 'NAME20'], ['get', 'NAMELSAD20'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME'], ['get', 'name']]
+            ],
             'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
             'text-size': 13,
             'text-anchor': 'center',
@@ -3155,14 +3166,39 @@ function filterValidContests(contests) {
         addCandidate(n.replace(/\bSaint\b/gi, 'St'));
         addCandidate(n.replace(/\bSt\.?\b/gi, 'Saint'));
       }
+      function canonicalCountyKey(name) {
+        let n = (name || '').toString().trim();
+        if (!n) return '';
+        if (/^city of\s+/i.test(n)) {
+          const cityBase = n.replace(/^city of\s+/i, '').trim();
+          n = `${cityBase} City`;
+        }
+        n = n
+          .replace(/\bSaint\b/gi, 'St')
+          .replace(/\bSt\.?\b/gi, 'St')
+          .replace(/[^a-z0-9 ]/gi, ' ')
+          .replace(/\s+/g, ' ')
+          .trim()
+          .toUpperCase();
+        return n;
+      }
 
       const base = countyName.trim();
       const normalizedCity = base.replace(/ city$/i, ' City');
       const strippedCounty = base.replace(/ County$/i, '');
+      const noCityOf = base.replace(/^city of\s+/i, '').trim();
 
       addSaintVariants(base);
       addSaintVariants(normalizedCity);
       addSaintVariants(strippedCounty);
+      if (/^city of\s+/i.test(base)) {
+        addSaintVariants(noCityOf);
+        addSaintVariants(`${noCityOf} City`);
+      }
+      if (/ city$/i.test(base)) {
+        const cityBase = base.replace(/ city$/i, '').trim();
+        addSaintVariants(`City of ${cityBase}`);
+      }
       if (!/ county$/i.test(base) && !/ city$/i.test(base)) {
         addSaintVariants(`${base} County`);
       }
@@ -3178,6 +3214,12 @@ function filterValidContests(contests) {
       const targetSet = new Set(candidates.map(v => v.toUpperCase()));
       for (const k of Object.keys(countyResults)) {
         if (targetSet.has(String(k).toUpperCase())) return countyResults[k];
+      }
+
+      // Canonical fallback for punctuation, "City of X" vs "X City", and St./Saint differences.
+      const canonicalTargets = new Set(candidates.map(canonicalCountyKey).filter(Boolean));
+      for (const k of Object.keys(countyResults)) {
+        if (canonicalTargets.has(canonicalCountyKey(k))) return countyResults[k];
       }
       return null;
     }
@@ -3225,6 +3267,12 @@ function filterValidContests(contests) {
         return;
       }
       
+      const sidebarDemVotes = Number(result.dem_votes) || 0;
+      const sidebarRepVotes = Number(result.rep_votes) || 0;
+      const sidebarTotalVotes = Number(result.total_votes) || 0;
+      const sidebarMarginVotes = Math.abs(sidebarDemVotes - sidebarRepVotes);
+      const sidebarMarginPct = sidebarTotalVotes > 0 ? (sidebarMarginVotes / sidebarTotalVotes) * 100 : 0;
+
       const html = `
         <div style="margin-bottom: 16px;">
           <strong>${currentContest.data.contest_name}</strong><br>
@@ -3253,15 +3301,15 @@ function filterValidContests(contests) {
         </div>
         
         <div style="margin-bottom: 16px;">
-          <strong>Margin:</strong> ${result.margin_pct?.toFixed(2) || 0}% 
-          (${Math.abs(result.margin || 0).toLocaleString()} votes)
+          <strong>Margin:</strong> ${sidebarMarginPct.toFixed(2)}% 
+          (${sidebarMarginVotes.toLocaleString()} votes)
         </div>
         
         ${result.competitiveness ? (() => {
-          const demVotes = Number(result.dem_votes) || 0;
-          const repVotes = Number(result.rep_votes) || 0;
+          const demVotes = sidebarDemVotes;
+          const repVotes = sidebarRepVotes;
           const winner = demVotes > repVotes ? 'Democratic' : (repVotes > demVotes ? 'Republican' : 'Tie');
-          const marginPct = Math.abs(Number(result.margin_pct) || 0);
+          const marginPct = sidebarMarginPct;
           const winnerCode = winner === 'Republican' ? 'R' : (winner === 'Democratic' ? 'D' : 'T');
           let ratingLabel = '';
           let ratingColor = '#6b7280';
@@ -3341,14 +3389,14 @@ function filterValidContests(contests) {
     }
 
     function categoryLabelForMargin(marginPct, winner) {
-      if (marginPct >= 40) return winner === 'R' ? 'Annihilation Republican (>=40.00%)' : 'Annihilation Democratic (>=40.00%)';
-      if (marginPct >= 30) return winner === 'R' ? 'Dominant Republican (30.00-39.99%)' : 'Dominant Democratic (30.00-39.99%)';
-      if (marginPct >= 20) return winner === 'R' ? 'Stronghold Republican (20.00-29.99%)' : 'Stronghold Democratic (20.00-29.99%)';
-      if (marginPct >= 10) return winner === 'R' ? 'Safe Republican (10.00-19.99%)' : 'Safe Democratic (10.00-19.99%)';
-      if (marginPct >= 5.5) return winner === 'R' ? 'Likely Republican (5.50-9.99%)' : 'Likely Democratic (5.50-9.99%)';
-      if (marginPct >= 1) return winner === 'R' ? 'Lean Republican (1.00-5.49%)' : 'Lean Democratic (1.00-5.49%)';
-      if (marginPct >= 0.5) return winner === 'R' ? 'Tilt Republican (0.50-0.99%)' : 'Tilt Democratic (0.50-0.99%)';
-      return 'Tossup (<0.50%)';
+      if (marginPct >= 40) return winner === 'R' ? 'Annihilation Republican' : 'Annihilation Democratic';
+      if (marginPct >= 30) return winner === 'R' ? 'Dominant Republican' : 'Dominant Democratic';
+      if (marginPct >= 20) return winner === 'R' ? 'Stronghold Republican' : 'Stronghold Democratic';
+      if (marginPct >= 10) return winner === 'R' ? 'Safe Republican' : 'Safe Democratic';
+      if (marginPct >= 5.5) return winner === 'R' ? 'Likely Republican' : 'Likely Democratic';
+      if (marginPct >= 1) return winner === 'R' ? 'Lean Republican' : 'Lean Democratic';
+      if (marginPct >= 0.5) return winner === 'R' ? 'Tilt Republican' : 'Tilt Democratic';
+      return winner === 'R' ? 'Tossup (Republican Win)' : (winner === 'D' ? 'Tossup (Democratic Win)' : 'Tossup (Tie)');
     }
 
     function applyContest(contestKey) {

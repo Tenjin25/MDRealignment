@@ -8,7 +8,7 @@ import shapefile
 
 
 INPUT_DIR = Path("Data/openelections")
-OUTPUT_PATH = Path("Data/md_county_aggregated_results_1986_1998.json")
+OUTPUT_PATH = Path("Data/md_county_aggregated_results_1986_2024.json")
 COUNTY_SHP_PATH = Path("Data/tl_2020_24_county20/tl_2020_24_county20.shp")
 
 # Keep this to clean statewide-style geographic patterns.
@@ -258,8 +258,8 @@ def build() -> dict:
                     rep_candidate = Counter(by_party["REP"]).most_common(1)[0][0]
 
                 margin = abs(dem_votes - rep_votes)
-                if two_party_total > 0:
-                    margin_pct = round((margin / two_party_total) * 100, 2)
+                if total_votes > 0:
+                    margin_pct = round((margin / total_votes) * 100, 2)
                 else:
                     margin_pct = 0.0
 
