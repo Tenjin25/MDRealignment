@@ -1094,7 +1094,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function getFeatureJurisdictionName(props) {
       if (!props) return '';
-      const rawName = (
+      return (
         props.namelsad ||
         props.NAMELSAD20 ||
         props.NAMELSAD ||
@@ -1106,8 +1106,6 @@ document.addEventListener('DOMContentLoaded', function() {
         props.COUNTYNAME ||
         ''
       );
-      if (/^baltimore city$/i.test(rawName)) return 'City of Baltimore';
-      return rawName;
     }
 // Merge JSONs (e.g., boundaries + election results)
 function mergeGeoElectionData(boundaryGeoJSON, electionData, countyKey='County', countyNameKey='county') {
@@ -2142,12 +2140,7 @@ function toggleSidebar() {
           type: 'symbol',
           source: 'counties',
           layout: {
-            'text-field': [
-              'case',
-              ['==', ['downcase', ['coalesce', ['get', 'NAMELSAD20'], ['get', 'NAMELSAD'], ['get', 'namelsad'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME20'], ['get', 'NAME'], ['get', 'name'], '']], 'baltimore city'],
-              'City of Baltimore',
-              ['coalesce', ['get', 'NAME20'], ['get', 'NAMELSAD20'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME'], ['get', 'name']]
-            ],
+            'text-field': ['coalesce', ['get', 'NAME20'], ['get', 'NAMELSAD20'], ['get', 'county_name'], ['get', 'County'], ['get', 'COUNTYNAME'], ['get', 'NAME'], ['get', 'name']],
             'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
             'text-size': 13,
             'text-anchor': 'center',
