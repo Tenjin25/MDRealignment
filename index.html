@@ -3388,13 +3388,13 @@ function filterValidContests(contests) {
     }
 
     function categoryLabelForMargin(marginPct, winner) {
-      if (marginPct >= 40) return winner === 'R' ? 'Annihilation Republican' : 'Annihilation Democratic';
-      if (marginPct >= 30) return winner === 'R' ? 'Dominant Republican' : 'Dominant Democratic';
-      if (marginPct >= 20) return winner === 'R' ? 'Stronghold Republican' : 'Stronghold Democratic';
-      if (marginPct >= 10) return winner === 'R' ? 'Safe Republican' : 'Safe Democratic';
-      if (marginPct >= 5.5) return winner === 'R' ? 'Likely Republican' : 'Likely Democratic';
-      if (marginPct >= 1) return winner === 'R' ? 'Lean Republican' : 'Lean Democratic';
-      if (marginPct >= 0.5) return winner === 'R' ? 'Tilt Republican' : 'Tilt Democratic';
+      if (marginPct >= 40) return winner === 'R' ? 'Annihilation Republican (≥40.00%)' : 'Annihilation Democratic (≥40.00%)';
+      if (marginPct >= 30) return winner === 'R' ? 'Dominant Republican (30.00-39.99%)' : 'Dominant Democratic (30.00-39.99%)';
+      if (marginPct >= 20) return winner === 'R' ? 'Stronghold Republican (20.00-29.99%)' : 'Stronghold Democratic (20.00-29.99%)';
+      if (marginPct >= 10) return winner === 'R' ? 'Safe Republican (10.00-19.99%)' : 'Safe Democratic (10.00-19.99%)';
+      if (marginPct >= 5.5) return winner === 'R' ? 'Likely Republican (5.50-9.99%)' : 'Likely Democratic (5.50-9.99%)';
+      if (marginPct >= 1) return winner === 'R' ? 'Lean Republican (1.00-5.49%)' : 'Lean Democratic (1.00-5.49%)';
+      if (marginPct >= 0.5) return winner === 'R' ? 'Tilt Republican (0.50-0.99%)' : 'Tilt Democratic (0.50-0.99%)';
       return winner === 'R' ? 'Tossup (Republican Win)' : (winner === 'D' ? 'Tossup (Democratic Win)' : 'Tossup (Tie)');
     }
 
