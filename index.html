@@ -1965,10 +1965,26 @@ function toggleSidebar() {
         countyCompetitiveness = currentContest.data.competitiveness;
       }
       const countyCompColor = countyCompetitiveness.color || '#6b7280';
-        // Always assign competitiveness category based on refined criteria.
         const roundedMargin = Math.round(marginPct * 100) / 100;
         const winnerCode = winner === 'Republican' ? 'R' : (winner === 'Democratic' ? 'D' : 'T');
-        const countyCompLabel = categoryLabelForMargin(roundedMargin, winnerCode);
+        let countyCompLabel = '';
+        if (roundedMargin >= 40) {
+          countyCompLabel = winner === 'Republican' ? 'Annihilation Republican' : 'Annihilation Democratic';
+        } else if (roundedMargin >= 30) {
+          countyCompLabel = winner === 'Republican' ? 'Dominant Republican' : 'Dominant Democratic';
+        } else if (roundedMargin >= 20) {
+          countyCompLabel = winner === 'Republican' ? 'Stronghold Republican' : 'Stronghold Democratic';
+        } else if (roundedMargin >= 10) {
+          countyCompLabel = winner === 'Republican' ? 'Safe Republican' : 'Safe Democratic';
+        } else if (roundedMargin >= 5.5) {
+          countyCompLabel = winner === 'Republican' ? 'Likely Republican' : 'Likely Democratic';
+        } else if (roundedMargin >= 1) {
+          countyCompLabel = winner === 'Republican' ? 'Lean Republican' : 'Lean Democratic';
+        } else if (roundedMargin >= 0.5) {
+          countyCompLabel = winner === 'Republican' ? 'Tilt Republican' : 'Tilt Democratic';
+        } else {
+          countyCompLabel = `Tossup (${winner} win)`;
+        }
       // Accessibility palette for winner color
       function cbColorForMargin(marginPct, winner) {
         if (marginPct >= 40) {
