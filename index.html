@@ -3670,8 +3670,14 @@ function setupCountySearch() {
   if (!countiesSource) return;
   
   let counties = [];
-  if (countiesSource._data && countiesSource._data.features) {
-    counties = countiesSource._data.features.map(f => {
+  const countyFeatures =
+    (window.countiesData && window.countiesData.features) ||
+    (countiesSource._data && countiesSource._data.features) ||
+    (countiesSource.data && countiesSource.data.features) ||
+    [];
+
+  if (countyFeatures.length > 0) {
+    counties = countyFeatures.map(f => {
       const p = f.properties || {};
       const canonical = getFeatureJurisdictionName(p);
       if (!canonical) return null;
